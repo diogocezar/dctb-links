@@ -42,6 +42,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://nodedecode.com.br/modulos-node-js-socket-io-cluster/ - Socket.io + Cluster;
 * http://webschool.io/bemean/ - NodeJs
 * http://clubedosgeeks.com.br/programacao/node-js/node-js-desenvolvendo-aplicacoes-desktop-com-node-webkit - Criando um executável com NodeJS
+* https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2#.ooapdd9ey - Transformando ECS6 em ECS5;
 
 ## MongoDB
 
