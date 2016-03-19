@@ -24,6 +24,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 ## Bootstrap / CSS
 
 * http://expo.getbootstrap.com/ - Exemplos bootstrap;
+* https://jonsuh.com/hamburgers/ - Menus;
 
 ## Projeto
 
@@ -72,21 +73,27 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * Woorank - https://www.woorank.com/pt
 * OpenLinkProfiler - http://openlinkprofiler.org/
 * Moz - https://moz.com/products/pro
+* http://tableless.com.br/seo-iniciantes-basico/
 
 ### OUTROS
 * Asana - https://app.asana.com/0/102300481623694/102300481623695
 * Redepen - https://redpen.io/
 * GhostLab (Igual ao AdobeEdge) - https://www.vanamco.com/ghostlab/
 
+## Processo de Criação Web
+
+* https://www.youtube.com/watch?v=f15NQEyKoDU
+
 ## UX / UI
 
 * http://chocoladesign.com/design-basico-diferenca-entre-ux-e-ui-design
 * http://arquiteturadeinformacao.com/mercado-e-carreira/o-mito-do-hibrido-uxui-designer
 
-## Fontes Google Fonts
+## Fontes
 
 * https://www.google.com/fonts#ReviewPlace:refine/Collection:Oswald|Roboto|Roboto+Condensed|Open+Sans|Open+Sans+Condensed:300
 
-## SEO
+# Transferencia de Arquivo
 
-* http://tableless.com.br/seo-iniciantes-basico/
+ *  https://reep.io
+ *  http://www.wetransfer.com
