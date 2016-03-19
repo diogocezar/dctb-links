@@ -41,6 +41,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://www.chalkstreet.com/learn-node-js-from-scratch-applications-tutorial-for-beginners/?utm_source=dac&utm_medium=node&utm_campaign=sn - Tutorial;
 * http://nodedecode.com.br/modulos-node-js-socket-io-cluster/ - Socket.io + Cluster;
 * http://webschool.io/bemean/ - NodeJs
+* http://clubedosgeeks.com.br/programacao/node-js/node-js-desenvolvendo-aplicacoes-desktop-com-node-webkit - Criando um executável com NodeJS
 
 ## MongoDB
 
@@ -107,6 +108,8 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://www.designculture.com.br/extensoes-gratuitas-do-photoshop-para-designers/ - Extensões Gratuitas para Photoshop;
 * https://mega.co.nz/#F!CNoRyJgS!UukXMgpWDAMgZ3dFO-tUlA
 * https://www.mailpile.is/ - Cliente de Email Local;
+* http://it-ebooks-search.info/ - Ebooks Gratuitos;
+* http://libgen.io - Materiais Gratuitos;
 
 ## Usabilidade e Pesquisa
 
