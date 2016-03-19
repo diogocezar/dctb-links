@@ -63,6 +63,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://willianjusten.com.br/animando-svg-com-smil/ - SVG animado com Smil;
 * http://willianjusten.com.br/como-criar-secoes-fullscreen-com-css/ - Seções Full Screen;
 * http://willianjusten.com.br/usando-svg-sprites/ - Usando SVG's sprites;
+* http://pastebin.com/ZA9shjxU - WebDatabase;
 
 ## Bootstrap / CSS
 
@@ -104,6 +105,8 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://willianjusten.com.br/como-se-tornar-um-desenvolvedor-front-end/ - Como se tornar um desenvolvedor Front-End;
 * https://medium.com/brasil/trezentas-coisas-gratuitas-e-sensacionais-para-empreendedores-e-startups-4d054afd6395#.5trtora5r - Trezentas coisas Gratuitas para Startups;
 * http://www.designculture.com.br/extensoes-gratuitas-do-photoshop-para-designers/ - Extensões Gratuitas para Photoshop;
+* https://mega.co.nz/#F!CNoRyJgS!UukXMgpWDAMgZ3dFO-tUlA
+* https://www.mailpile.is/ - Cliente de Email Local;
 
 ## Usabilidade e Pesquisa
 
