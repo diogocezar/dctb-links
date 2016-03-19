@@ -111,6 +111,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * https://www.mailpile.is/ - Cliente de Email Local;
 * http://it-ebooks-search.info/ - Ebooks Gratuitos;
 * http://libgen.io - Materiais Gratuitos;
+* https://tasafo.wordpress.com/2014/08/09/iniciando-com-elasticsearch/ - Elastic Search;
 
 ## Usabilidade e Pesquisa
 
