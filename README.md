@@ -57,6 +57,11 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://equinusocio.github.io/material-theme/ - Tema para o Sublime;
 * http://willianjusten.com.br/meus-plugins-favoritos-do-sublime-text/ - Temas e Plugins;
 
+## Tipografia
+
+* https://www.web-font-generator.com/ - Gerador de Fontes para CSS + HTML;
+* http://www.fontsquirrel.com/tools/webfont-generator - Gerador de Fontes para CSS + HTML;
+
 ## HTML / Templates
 
 * https://braziljs.org/blog/legenda-em-videos-html5/ - Legendas em vídeos no html;
@@ -118,6 +123,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://libgen.io - Materiais Gratuitos;
 * https://tasafo.wordpress.com/2014/08/09/iniciando-com-elasticsearch/ - Elastic Search;
 * https://www.youtube.com/watch?v=xtqMatzVoSA - Advanced Custom Fields Wordpress Plugin;
+* http://blog.da2k.com.br/2015/02/05/segredos-do-github-hospedando-seu-site-no-github/ - Hospedando seu site no GitHub;
 
 ## Usabilidade e Pesquisa
 
