@@ -54,7 +54,8 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 
 ## SublimeText
 
-* http://willianjusten.com.br/meus-plugins-favoritos-do-sublime-text/ - Temas e Plugins
+* http://equinusocio.github.io/material-theme/ - Tema para o Sublime;
+* http://willianjusten.com.br/meus-plugins-favoritos-do-sublime-text/ - Temas e Plugins;
 
 ## HTML / Templates
 
