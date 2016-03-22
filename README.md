@@ -52,6 +52,10 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 
 * http://performancedb.com.br/blog/archives/176 - MySQL + JSON;
 
+## SublimeText
+
+* http://willianjusten.com.br/meus-plugins-favoritos-do-sublime-text/ - Temas e Plugins
+
 ## HTML / Templates
 
 * https://braziljs.org/blog/legenda-em-videos-html5/ - Legendas em vídeos no html;
