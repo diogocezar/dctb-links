@@ -124,6 +124,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * https://tasafo.wordpress.com/2014/08/09/iniciando-com-elasticsearch/ - Elastic Search;
 * https://www.youtube.com/watch?v=xtqMatzVoSA - Advanced Custom Fields Wordpress Plugin;
 * http://blog.da2k.com.br/2015/02/05/segredos-do-github-hospedando-seu-site-no-github/ - Hospedando seu site no GitHub;
+* http://www.mettzer.com/ - Plataforma para Confecção de TCC nas normas da ABNT
 
 ## Usabilidade e Pesquisa
 
