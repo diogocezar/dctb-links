@@ -207,3 +207,8 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
  *  https://reep.io
  *  http://www.wetransfer.com
  *  http://www.mega.nz
+
+## Conferência
+
+* https://role.vc
+* https://appear.in
