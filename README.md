@@ -88,6 +88,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://willianjusten.com.br/filtros-css/ - Filtros em CSS;
 * http://msurguy.github.io/background-blur/ - Background Blur;
 * http://willianjusten.com.br/alguns-seletores-css-importantes-para-aprender/ - Seletores Importantes;
+* http://fezvrasta.github.io/bootstrap-material-design - Material Design + Bootstrap;
 
 ## PHP
 
