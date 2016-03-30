@@ -91,6 +91,10 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://willianjusten.com.br/alguns-seletores-css-importantes-para-aprender/ - Seletores Importantes;
 * http://fezvrasta.github.io/bootstrap-material-design - Material Design + Bootstrap;
 
+## Temas Wordpress
+
+* http://themeforest.net/item/kalium-creative-theme-for-professionals/10860525
+
 ## PHP
 
 * http://www.douglaspasqua.com/2015/05/24/criando-aplicativos-facebook-sdk-v5-em-php/ - Facebook e PHP;
