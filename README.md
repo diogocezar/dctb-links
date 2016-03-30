@@ -107,6 +107,10 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://cienciacomputacao.com.br/desenvolvimento/solo-gerencie-seus-projetos-facilmente/ - Solo;
 * www.slack.com - Slack;
 
+## Linux
+
+* http://www.howtogeek.com/104708/how-to-customize-ubuntus-message-of-the-day/ - Alterando mensagem do dia;
+
 ## Diversos
 
 * http://portillodesign.com.br/programacao/sefaz-como-fazer-integracao-nfe-cte.html - Notas Fiscais;
