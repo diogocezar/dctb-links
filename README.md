@@ -62,6 +62,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * https://www.web-font-generator.com/ - Gerador de Fontes para CSS + HTML;
 * http://www.fontsquirrel.com/tools/webfont-generator - Gerador de Fontes para CSS + HTML;
 * http://fabiandesmet.com/portfolio/butler-font/ - Butler Font;
+* https://www.origamid.com/wp-content/uploads/2015/05/tipografia-para-web.pdf - Tipografia para Web;
 
 ## HTML / Templates
 
