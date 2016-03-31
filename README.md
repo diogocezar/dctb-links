@@ -95,6 +95,10 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 
 * http://themeforest.net/item/kalium-creative-theme-for-professionals/10860525
 
+## Git
+
+* https://git-scm.com/book/pt-br/v1/Ramifica%C3%A7%C3%A3o-Branching-no-Git-B%C3%A1sico-de-Branch-e-Merge
+
 ## PHP
 
 * http://www.douglaspasqua.com/2015/05/24/criando-aplicativos-facebook-sdk-v5-em-php/ - Facebook e PHP;
