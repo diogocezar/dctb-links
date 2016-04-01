@@ -139,7 +139,16 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * https://tasafo.wordpress.com/2014/08/09/iniciando-com-elasticsearch/ - Elastic Search;
 * https://www.youtube.com/watch?v=xtqMatzVoSA - Advanced Custom Fields Wordpress Plugin;
 * http://blog.da2k.com.br/2015/02/05/segredos-do-github-hospedando-seu-site-no-github/ - Hospedando seu site no GitHub;
-* http://www.mettzer.com/ - Plataforma para Confecção de TCC nas normas da ABNT
+* http://www.mettzer.com/ - Plataforma para Confecção de TCC nas normas da ABNT;
+* https://www.import.io - Ferramenta para importação de dados;
+
+## Design
+
+* https://pixabay.com/ - Site gratuito de imagens em alta resolução;
+* https://www.pexels.com/ - Tbm é gratuito porém acervo é menor que o primeiro;
+* http://graphicburger.com/ - Vetores, mock-ups, icons e etc;
+* http://instantlogosearch.com/ - Grande acervo de logos;
+* http://www.brusheezy.com/ - Arquivos em psd, contém brushes e actions gratuitos;
 
 ## Usabilidade e Pesquisa
 
