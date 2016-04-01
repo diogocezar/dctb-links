@@ -142,7 +142,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://www.mettzer.com/ - Plataforma para Confecção de TCC nas normas da ABNT;
 * https://www.import.io - Ferramenta para importação de dados;
 
-## Design
+## Design Assets
 
 * https://pixabay.com/ - Site gratuito de imagens em alta resolução;
 * https://www.pexels.com/ - Tbm é gratuito porém acervo é menor que o primeiro;
