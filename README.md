@@ -20,6 +20,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://t4t5.github.io/sweetalert/ - A BEAUTIFUL REPLACEMENT FOR JAVASCRIPT'S "ALERT";
 * http://slippry.com/ - Slider;
 * https://sbstjn.github.io/timesheet.js/ - Vizualiação em TimeLine;
+* http://designwithpc.com/Plugins/ddSlick#demo - Slick com JQuery;
 
 ## JavaScript
 
@@ -30,6 +31,12 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://nodedecode.com.br/javascript-ecmascript-6/ - ECS6;
 * http://tableless.com.br/mais-valvulas-para-seu-javascript/ - V8;
 * https://github.com/willianjusten/screamer-js - Notificações;
+* http://fullcalendar.io/ - Calendário;
+* http://umbrellajs.com/ - DOM manipulation;
+* http://leafletjs.com/ - Manipulação de mapas;
+* http://github.hubspot.com/vex/docs/welcome/ - Alert em JS;
+* http://fabien-d.github.io/alertify.js/ - Alerta em JS;
+* http://limonte.github.io/sweetalert2/ - Alerta em JS;
 
 ## Apache
 
@@ -78,6 +85,9 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://willianjusten.com.br/como-criar-secoes-fullscreen-com-css/ - Seções Full Screen;
 * http://willianjusten.com.br/usando-svg-sprites/ - Usando SVG's sprites;
 * http://pastebin.com/ZA9shjxU - WebDatabase;
+* https://www.script-tutorials.com/pure-html5-file-upload/ - Upload de arquivos em HTML5;
+* https://24ways.org/2013/animating-vectors-with-svg/ - Vetor com SVG
+* https://davidwalsh.name/svg-animation - Animação SVG
 
 ## Bootstrap / CSS
 
@@ -91,6 +101,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://msurguy.github.io/background-blur/ - Background Blur;
 * http://willianjusten.com.br/alguns-seletores-css-importantes-para-aprender/ - Seletores Importantes;
 * http://fezvrasta.github.io/bootstrap-material-design - Material Design + Bootstrap;
+* https://bootstrap-datepicker.readthedocs.org/en/latest/ - Calendário em Bootstrap;
 
 ## Temas Wordpress
 
@@ -141,6 +152,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://blog.da2k.com.br/2015/02/05/segredos-do-github-hospedando-seu-site-no-github/ - Hospedando seu site no GitHub;
 * http://www.mettzer.com/ - Plataforma para Confecção de TCC nas normas da ABNT;
 * https://www.import.io - Ferramenta para importação de dados;
+* https://github.com/CodeSeven/toastr - Toast em site;
 
 ## Design Assets
 
@@ -236,3 +248,9 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 
 * https://role.vc
 * https://appear.in
+
+## Paleta de cores
+* http://colorphile.com/ - Escolher cores;
+* http://clrs.cc/ - Escolher cores;
+* http://brandcolors.net/ - Cores de logos e empresas famosas;
+* http://cymbolism.com/ - Significado de cores;
