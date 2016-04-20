@@ -20,7 +20,14 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://t4t5.github.io/sweetalert/ - A BEAUTIFUL REPLACEMENT FOR JAVASCRIPT'S "ALERT";
 * http://slippry.com/ - Slider;
 * https://sbstjn.github.io/timesheet.js/ - Vizualiação em TimeLine;
-* http://designwithpc.com/Plugins/ddSlick#demo - Slick com JQuery;
+* http://designwithpc.com/Plugins/ddSlick#demo - Slick;
+* https://github.com/fengyuanchen/cropper - Cropper para imagens;
+* http://icheck.fronteed.com/ - Personalizar checkbox e radio;
+* http://abpetkov.github.io/switchery/ - Switch com visual IOS;
+* https://jqueryvalidation.org/ - Validação com JQuery;
+* http://srobbin.com/jquery-plugins/backstretch/ - Background em sites;
+* http://viacep.com.br/exemplo/jquery/ - CEP via JQuery;
+* http://giovanneafonso.github.io/jquery.cep/ - CEP via JQuery;
 
 ## JavaScript
 
@@ -34,9 +41,11 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://fullcalendar.io/ - Calendário;
 * http://umbrellajs.com/ - DOM manipulation;
 * http://leafletjs.com/ - Manipulação de mapas;
+* http://jvectormap.com/ - Criar mapas;
 * http://github.hubspot.com/vex/docs/welcome/ - Alert em JS;
 * http://fabien-d.github.io/alertify.js/ - Alerta em JS;
 * http://limonte.github.io/sweetalert2/ - Alerta em JS;
+* https://codemirror.net/ - Timeline em site;
 
 ## Apache
 
@@ -88,6 +97,10 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * https://www.script-tutorials.com/pure-html5-file-upload/ - Upload de arquivos em HTML5;
 * https://24ways.org/2013/animating-vectors-with-svg/ - Vetor com SVG
 * https://davidwalsh.name/svg-animation - Animação SVG
+* http://tympanus.net/codrops/2013/06/06/on-scroll-animated-header/ - Header animado on scroll;
+* https://www.tinymce.com/ - Editar códigos em site;
+* https://codyhouse.co/gem/vertical-timeline/ - Timeline;
+
 
 ## Bootstrap / CSS
 
@@ -102,6 +115,9 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://willianjusten.com.br/alguns-seletores-css-importantes-para-aprender/ - Seletores Importantes;
 * http://fezvrasta.github.io/bootstrap-material-design - Material Design + Bootstrap;
 * https://bootstrap-datepicker.readthedocs.org/en/latest/ - Calendário em Bootstrap;
+* https://mjolnic.com/bootstrap-colorpicker/ - Color picker;
+* https://daneden.github.io/animate.css/ - Animação utilizando CSS;
+* https://silviomoreto.github.io/bootstrap-select/examples/ - Select para bootstrap;
 
 ## Temas Wordpress
 
@@ -153,6 +169,9 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://www.mettzer.com/ - Plataforma para Confecção de TCC nas normas da ABNT;
 * https://www.import.io - Ferramenta para importação de dados;
 * https://github.com/CodeSeven/toastr - Toast em site;
+* http://www.json-generator.com/ - Gerador de JSON;
+* http://www.allitebooks.com/ - Livros de TI;
+* https://markdown-it.github.io/ - Markdown live preview;
 
 ## Design Assets
 
@@ -191,6 +210,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * Sketch V3 - https://designcode.io/sketch
 * Invision (Prototipação colaborativa) - http://www.invisionapp.com/
 * Adobe Experience Design (Preview) - http://www.adobe.com/jp/products/experience-design.html
+* Balsamiq - https://balsamiq.com/
 
 ## Design
 
@@ -207,6 +227,14 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * Visual Studio - https://code.visualstudio.com/
 * Brackets - http://brackets.io/
 * Wakatime - https://wakatime.com/
+* Atom - https://atom.io/
+
+## Codificação online
+* Tutorials Point - http://www.tutorialspoint.com/codingground.htm
+* JSFiddle - https://jsfiddle.net/ 
+* Codepen - http://codepen.io/ 
+* Plunker - https://plnkr.co/ 
+* C9 - https://c9.io/ 
 
 ## SEO & Otimização
 
@@ -250,7 +278,56 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * https://appear.in
 
 ## Paleta de cores
+
 * http://colorphile.com/ - Escolher cores;
 * http://clrs.cc/ - Escolher cores;
 * http://brandcolors.net/ - Cores de logos e empresas famosas;
 * http://cymbolism.com/ - Significado de cores;
+
+## Imagens em PSD
+
+* http://freepsds.org/ 
+* http://pt.365psd.com/ 
+* http://www.pixeden.com/
+* http://www.premiumpixels.com/
+* http://freebiesbug.com/
+* http://pt.clipart.me/
+* http://uidock.com/
+* http://www.freepik.com/
+* http://freepsdfiles.net/
+* http://www.psdgraphics.com/
+* http://psdreams.com/
+* http://www.brusheezy.com/psds
+* http://psdblast.com/ 
+
+## Imagens vetorizadas
+
+* http://www.vecteezy.com/
+* http://vector.so/
+* http://www.freevectors.net/
+* https://www.vectorstock.com/free-vectors
+* http://pt.vector.me/
+* http://www.freevector.com/ 
+
+## Icones
+
+* https://fortawesome.github.io/Font-Awesome/icons/
+* https://icomoon.io/ 
+* http://paymentfont.io/
+* http://iosicongallery.com/
+* https://www.iconfinder.com/
+* http://findicons.com/
+* http://www.iconarchive.com/
+* http://iconmonstr.com/
+* http://flaticons.net/
+* http://famfamfam.com/
+* http://www.iconspedia.com/
+* http://fonticons.net/
+* http://flaticon.io/ 
+* http://fontello.com/ 
+
+## Construtor de páginas
+* https://bootstrapstudio.io/
+* http://codecanyon.net/item/html-builder-frontend-version/full_screen_preview/8432859
+* http://www.layoutit.com/build 
+* https://www.nitrous.io/ 
