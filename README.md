@@ -123,6 +123,10 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 
 * http://themeforest.net/item/kalium-creative-theme-for-professionals/10860525
 
+## Temas Linux
+
+* http://itsfoss.com/install-numix-ubuntu/
+
 ## Git
 
 * https://git-scm.com/book/pt-br/v1/Ramifica%C3%A7%C3%A3o-Branching-no-Git-B%C3%A1sico-de-Branch-e-Merge
