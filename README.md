@@ -6,6 +6,10 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 
 * http://tympanus.net/codrops/ - Coleção de Bibliotecas CSS + JavaScript;
 
+## Resouce Cards
+
+* https://resourcecards.com/ - Coleção de Recursos Variados;
+
 ## JQuery / Plugins / Frameworks
 
 * http://gaya.github.io/scripts/queryLoader2/ - Loading de imagens com porcentagem;
@@ -46,6 +50,12 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://fabien-d.github.io/alertify.js/ - Alerta em JS;
 * http://limonte.github.io/sweetalert2/ - Alerta em JS;
 * https://codemirror.net/ - Timeline em site;
+* https://blog.jscrambler.com/12-extremely-useful-hacks-for-javascript/ - JavaScript Hacks;
+* http://www.gravmatt.com/force-js/ - Animação de Elementos;
+* http://jstherightway.org/ - JavaScript The Right Way;
+* http://nipher.io/ES6-arrow-functions - Arrow Functions ES6;
+* http://www.sitepoint.com/map-reduce-functional-javascript/ - Map Reduce;
+* https://medium.com/@matheusml/o-que-todo-desenvolvedor-javascript-precisa-saber-2cc33daedb86#.n21xlxlal - O que TODO desenvolvedor JavaScript precisa saber;
 
 ## Apache
 
@@ -59,6 +69,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://webschool.io/bemean/ - NodeJs
 * http://clubedosgeeks.com.br/programacao/node-js/node-js-desenvolvendo-aplicacoes-desktop-com-node-webkit - Criando um executável com NodeJS
 * https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2#.ooapdd9ey - Transformando ECS6 em ECS5;
+* https://github.com/filipedeschamps/rss-feed-emitter - RSS Feed Emitter
 
 ## MongoDB
 
@@ -79,6 +90,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://www.fontsquirrel.com/tools/webfont-generator - Gerador de Fontes para CSS + HTML;
 * http://fabiandesmet.com/portfolio/butler-font/ - Butler Font;
 * https://www.origamid.com/wp-content/uploads/2015/05/tipografia-para-web.pdf - Tipografia para Web;
+* https://onlinefontconverter.com/ - Online Fonte Converter;
 
 ## HTML / Templates
 
@@ -100,6 +112,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://tympanus.net/codrops/2013/06/06/on-scroll-animated-header/ - Header animado on scroll;
 * https://www.tinymce.com/ - Editar códigos em site;
 * https://codyhouse.co/gem/vertical-timeline/ - Timeline;
+* https://www.origamid.com/aula/4-2-separadores-e-ornamentos/ - Separadores
 
 
 ## Bootstrap / CSS
@@ -118,6 +131,11 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * https://mjolnic.com/bootstrap-colorpicker/ - Color picker;
 * https://daneden.github.io/animate.css/ - Animação utilizando CSS;
 * https://silviomoreto.github.io/bootstrap-select/examples/ - Select para bootstrap;
+* http://hackerthemes.com/bootstrap-cheatsheet/ - Bootstrap 4 Cheat Sheet;
+* https://cssanimation.rocks/twitter-fave/ - Animação de Ícones;
+* http://codepen.io/origamid/details/KzRLKJ - Calc em Grids;
+* https://css-tricks.com/snippets/css/complete-guide-grid/ - Guia Completo Grids;
+* http://clovisdasilvaneto.github.io/anima-es-avan-adas-com-css3-introdu-o/ - Animações CSS;
 
 ## Temas Wordpress
 
@@ -176,6 +194,12 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://www.json-generator.com/ - Gerador de JSON;
 * http://www.allitebooks.com/ - Livros de TI;
 * https://markdown-it.github.io/ - Markdown live preview;
+* http://blog.cloudfour.com/responsive-logo-composition-with-svg/ - Logo responsiva com SVG;
+* http://css4rocks.cygenic.com/selectors-level-4/?utm_source=html5weekly&utm_medium=email - Seletores CSS4;
+* http://design.google.com/resizer/ - Google Resizer;
+* http://willianjusten.com.br/criando-efeito-parallax-no-header/ - Efeito Paralax;
+* http://fvsch.com/code/svg-icons/how-to/ - Ícones em SVG;
+* https://www.youtube.com/watch?v=KJG1dETacLI - Expressões Regulares;
 
 ## Design Assets
 
@@ -184,6 +208,8 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://graphicburger.com/ - Vetores, mock-ups, icons e etc;
 * http://instantlogosearch.com/ - Grande acervo de logos;
 * http://www.brusheezy.com/ - Arquivos em psd, contém brushes e actions gratuitos;
+* http://www.inspi.com.br/2016/05/8-sites-para-te-ajudar-escolher-palheta-de-cores-ideal/ - Paleta de Cores;
+* https://visualhunt.com/ - Imagens Creative Commons;
 
 ## Usabilidade e Pesquisa
 
