@@ -200,6 +200,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://willianjusten.com.br/criando-efeito-parallax-no-header/ - Efeito Paralax;
 * http://fvsch.com/code/svg-icons/how-to/ - Ícones em SVG;
 * https://www.youtube.com/watch?v=KJG1dETacLI - Expressões Regulares;
+* http://tableless.com.br/lojas-virtuais-com-woocommerce/ - WooCommerce;
 
 ## Design Assets
 
