@@ -136,6 +136,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://codepen.io/origamid/details/KzRLKJ - Calc em Grids;
 * https://css-tricks.com/snippets/css/complete-guide-grid/ - Guia Completo Grids;
 * http://clovisdasilvaneto.github.io/anima-es-avan-adas-com-css3-introdu-o/ - Animações CSS;
+* https://codeappweb.blogspot.com.br/2016/05/animaciones-css3-framework-list.html?platform=hootsuite - Animações CSS + JS;
 
 ## Temas Wordpress
 
