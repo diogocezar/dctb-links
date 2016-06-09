@@ -138,6 +138,14 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://clovisdasilvaneto.github.io/anima-es-avan-adas-com-css3-introdu-o/ - Animações CSS;
 * https://codeappweb.blogspot.com.br/2016/05/animaciones-css3-framework-list.html?platform=hootsuite - Animações CSS + JS;
 
+## Efeitos
+
+* https://daneden.github.io/animate.css/
+* https://elrumordelaluz.github.io/csshake/
+* http://mynameismatthieu.com/WOW/
+* http://lab.hakim.se/scroll-effects/
+* http://www.jasonlusk.com/scroll/
+
 ## Temas Wordpress
 
 * http://themeforest.net/item/kalium-creative-theme-for-professionals/10860525
