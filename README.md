@@ -166,6 +166,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://socketo.me/ - Websockets com PHP;
 * http://www.codeigniter.com/ - Framework PHP;
 * http://forum.imasters.com.br/topic/489419-exportando-relatorio-para-pdf/ - PDF com PHP;
+* https://github.com/masterexploder/PHPThumb/wiki/Basic-Usage - Manipulação de Imagens;
 
 ## Ferramentas para Gerência de Projetos
 
