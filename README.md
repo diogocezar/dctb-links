@@ -56,6 +56,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://nipher.io/ES6-arrow-functions - Arrow Functions ES6;
 * http://www.sitepoint.com/map-reduce-functional-javascript/ - Map Reduce;
 * https://medium.com/@matheusml/o-que-todo-desenvolvedor-javascript-precisa-saber-2cc33daedb86#.n21xlxlal - O que TODO desenvolvedor JavaScript precisa saber;
+* Drag and Drop Upload - http://www.dropzonejs.com/
 
 ## Apache
 
