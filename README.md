@@ -301,6 +301,12 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 
 * https://www.youtube.com/watch?v=f15NQEyKoDU
 
+## Compressão de Imagens
+
+* TinyPNG - https://tinypng.com/
+* PNGQuant - https://pngquant.org/
+* Plugin Photoshop PNGQuant - http://www.fnordware.com/superpng/
+
 ## UX / UI
 
 * http://chocoladesign.com/design-basico-diferenca-entre-ux-e-ui-design
