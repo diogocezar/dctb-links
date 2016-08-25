@@ -215,6 +215,10 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://tableless.com.br/lojas-virtuais-com-woocommerce/ - WooCommerce;
 * http://instacod.es/ - Imagem para códigos instagram;
 
+## Web Mobile Optimizing
+
+* http://blog.teamtreehouse.com/optimizing-mobile-web-apps-ios
+
 ## Design Assets
 
 * https://pixabay.com/ - Site gratuito de imagens em alta resolução;
