@@ -93,6 +93,10 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * https://www.origamid.com/wp-content/uploads/2015/05/tipografia-para-web.pdf - Tipografia para Web;
 * https://onlinefontconverter.com/ - Online Fonte Converter;
 
+## Tutorial Git
+
+* https://github.com/MuvucaGames/Tutoriais/wiki/%5BWIP%5D-Tutorial-completo-sobre-versionamento-com-GIT
+
 ## HTML / Templates
 
 * https://braziljs.org/blog/legenda-em-videos-html5/ - Legendas em vídeos no html;
