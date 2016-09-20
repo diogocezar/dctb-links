@@ -5,6 +5,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 ## Codrops
 
 * http://tympanus.net/codrops/ - Coleção de Bibliotecas CSS + JavaScript;
+* https://codyhouse.co/library/ - Coleção de Bibliotecas CSS + JavaScript;
 
 ## Resouce Cards
 
