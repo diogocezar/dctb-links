@@ -162,6 +162,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 ## Git
 
 * https://git-scm.com/book/pt-br/v1/Ramifica%C3%A7%C3%A3o-Branching-no-Git-B%C3%A1sico-de-Branch-e-Merge
+* https://about.gitlab.com/downloads/#ubuntu1604 - Install Git Lab
 
 ## PHP
 
