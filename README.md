@@ -143,6 +143,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * https://css-tricks.com/snippets/css/complete-guide-grid/ - Guia Completo Grids;
 * http://clovisdasilvaneto.github.io/anima-es-avan-adas-com-css3-introdu-o/ - Animações CSS;
 * https://codeappweb.blogspot.com.br/2016/05/animaciones-css3-framework-list.html?platform=hootsuite - Animações CSS + JS;
+* https://codepen.io/nxworld/pen/ZYNOBZ - Efeitos houver imagens;
 
 ## Efeitos
 
