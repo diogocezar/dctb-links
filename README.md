@@ -222,6 +222,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * https://www.youtube.com/watch?v=KJG1dETacLI - Expressões Regulares;
 * http://tableless.com.br/lojas-virtuais-com-woocommerce/ - WooCommerce;
 * http://instacod.es/ - Imagem para códigos instagram;
+* http://www.z-cron.com/ - Cron no windows;
 
 ## Web Mobile Optimizing
 
