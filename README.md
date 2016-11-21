@@ -288,10 +288,10 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 
 ## Codificação online
 * Tutorials Point - http://www.tutorialspoint.com/codingground.htm
-* JSFiddle - https://jsfiddle.net/ 
-* Codepen - http://codepen.io/ 
-* Plunker - https://plnkr.co/ 
-* C9 - https://c9.io/ 
+* JSFiddle - https://jsfiddle.net/
+* Codepen - http://codepen.io/
+* Plunker - https://plnkr.co/
+* C9 - https://c9.io/
 
 ## SEO & Otimização
 
@@ -349,8 +349,8 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 
 ## Imagens em PSD
 
-* http://freepsds.org/ 
-* http://pt.365psd.com/ 
+* http://freepsds.org/
+* http://pt.365psd.com/
 * http://www.pixeden.com/
 * http://www.premiumpixels.com/
 * http://freebiesbug.com/
@@ -361,7 +361,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://www.psdgraphics.com/
 * http://psdreams.com/
 * http://www.brusheezy.com/psds
-* http://psdblast.com/ 
+* http://psdblast.com/
 
 ## Imagens vetorizadas
 
@@ -370,12 +370,12 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://www.freevectors.net/
 * https://www.vectorstock.com/free-vectors
 * http://pt.vector.me/
-* http://www.freevector.com/ 
+* http://www.freevector.com/
 
 ## Icones
 
 * https://fortawesome.github.io/Font-Awesome/icons/
-* https://icomoon.io/ 
+* https://icomoon.io/
 * http://paymentfont.io/
 * http://iosicongallery.com/
 * https://www.iconfinder.com/
@@ -386,11 +386,11 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://famfamfam.com/
 * http://www.iconspedia.com/
 * http://fonticons.net/
-* http://flaticon.io/ 
-* http://fontello.com/ 
+* http://flaticon.io/
+* http://fontello.com/
 
 ## Construtor de páginas
 * https://bootstrapstudio.io/
 * http://codecanyon.net/item/html-builder-frontend-version/full_screen_preview/8432859
-* http://www.layoutit.com/build 
-* https://www.nitrous.io/ 
+* http://www.layoutit.com/build
+* https://www.nitrous.io/
