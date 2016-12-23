@@ -33,6 +33,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://srobbin.com/jquery-plugins/backstretch/ - Background em sites;
 * http://viacep.com.br/exemplo/jquery/ - CEP via JQuery;
 * http://giovanneafonso.github.io/jquery.cep/ - CEP via JQuery;
+* http://www.appelsiini.net/projects/lazyload - Lazy Load Images;
 
 ## JavaScript
 
