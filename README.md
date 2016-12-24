@@ -7,6 +7,10 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://tympanus.net/codrops/ - Coleção de Bibliotecas CSS + JavaScript;
 * https://codyhouse.co/library/ - Coleção de Bibliotecas CSS + JavaScript;
 
+## Vagrant
+
+* https://scotch.io/tutorials/how-to-create-a-vagrant-base-box-from-an-existing-one
+
 ## Resouce Cards
 
 * https://resourcecards.com/ - Coleção de Recursos Variados;
