@@ -2,6 +2,105 @@
 
 Neste repositório estão os links interessantes de idéias, componentes e ferramentas para o desenvolvimento web.
 
+## Imagens
+
+* https://www.pexels.com/
+* http://epicantus.tumblr.com/
+* http://kaboompics.com/
+* http://mmtstock.com/
+* https://stock.tookapic.com/photos?filter=free
+* http://jaymantri.com/
+* http://snapwiresnaps.tumblr.com/
+* http://freestocks.org/
+* http://getrefe.tumblr.com/
+* http://nos.twnsnd.co/
+* http://www.imcreator.com/free
+* https://picjumbo.com/
+* http://superfamous.com/
+* http://deathtothestockphoto.com/
+* http://www.lifeofpix.com/
+* http://littlevisuals.co/
+* http://www.splitshire.com/
+* http://negativespace.co/
+* http://www.gratisography.com/
+* https://unsplash.com/
+* https://stocksnap.io/
+* http://jeshoots.com/
+* http://pixabay.com/
+* http://cupcake.nilssonlee.se/
+* http://www.uhdwallpapers.org/
+* http://kaboompics.com/
+* http://foodiesfeed.com/
+* http://www.raumrot.com/10/
+* http://jaymantri.com/
+
+## Tutoriais / Cursos
+
+### Hugo Vasconcelos
+* https://www.youtube.com/user/tutoriais01 
+
+#### Brainstorm Tutoriais - Edição de Vídeo
+* https://www.youtube.com/channel/UCi07FKoTSmfT32xynSriT5w
+
+### DD TUTORIAIS
+* https://www.youtube.com/channel/UC9xBCxrM6qLuJYJX18LGRBw
+
+### Clube do Design
+* https://www.youtube.com/channel/UC6CXMJjB30e0UlFo082IFVA
+
+### RBtecheu to
+* https://www.youtube.com/channel/UCVEa_x1n5FwWrxH00MrDPzQ
+
+### Media Certa
+* https://www.facebook.com/mediacerta/?fref=ts
+
+### HxTutors
+* https://www.youtube.com/user/newwebmasterbruno
+
+### Andrei Oprinca
+* https://www.youtube.com/user/diphax
+
+### PSD Box
+* https://www.youtube.com/user/eldelphotoshop
+
+### Photoshop Tutorials by PHLEARN
+* https://www.youtube.com/user/PhlearnLLC
+
+### Walter Mattos
+* https://www.youtube.com/channel/UCWhgYAMKQe174JTNXnIXnBQ
+
+### Amarelo Criativo
+* https://www.youtube.com/channel/UC36I3VDGkyrgFTjj4mgbGEg
+
+### Magrelo
+* https://www.youtube.com/user/vlogdomagrelo
+
+### CreativeStation
+* https://www.youtube.com/channel/UCopU6KXnK517ycc4tZyzm-g
+
+### Cursos pagos
+* http://www.lucianoaugusto.com.br/
+* http://vaonline.com.br/
+* http://vac4d.com.br/
+* https://obsproject.com/
+
+## Downloads Inspirações
+
+* https://mega.nz/#F!uZZ12I7Z!g9TtOZrFAy5pZ_z6Mzlt1Q!qNxn0DiQ [9gb de mockup]
+* http://www.designerd.com.br/category/free/ [uteis free]
+* http://www.des1gnon.com/2014/02/50-recursos-de-referencias-essenciais-para-designers/ [50 Recursos de Referências]
+* http://waltermattos.com/biblioteca/ [recomendação de livros]
+* http://www.brunoavila.com.br/avante/livros/31-livros-em-pdf-sobre-design-publicidade-e-comunicao.html [livros diversos design]
+* https://www.dropbox.com/sh/v2ibk14kj67odkc/AAA_eNRU0pRVhLpdOc_EZ_cHa?dl=0 [livros design]
+* https://soundcloud.com/aparelhoeletrico [podcast - freelancers]
+* http://www.neowin.net/news/psd-codec-1610 [exibir miniaturas dos arquivos em psd]
+* http://www.ampsoft.net/utilities/FontViewer.php [visualizador de fontes]
+* http://designrfix.com/freebies/vector-backgrounds [500 backgrounds]
+* http://www.tutoriaisphotoshop.net/2016/09/download-mega-pack-com-2000-gradientes.html?m=1 [2.000 gradientes]
+* https://www.sysoeducation.com.br/artigo/download-120-000-shapes-para-photoshop [120 mil shapes]
+* http://www.photoshopstar.com/resources/photoshop-patterns-collection/ [+2000 padrões para photoshop]
+* http://www.deviantart.com/browse/all/?section=&global=1&q=pack+texture&offset=59 [packs texturas]
+
 ## Codrops
 
 * http://tympanus.net/codrops/ - Coleção de Bibliotecas CSS + JavaScript;
