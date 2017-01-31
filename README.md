@@ -106,6 +106,10 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://tympanus.net/codrops/ - Coleção de Bibliotecas CSS + JavaScript;
 * https://codyhouse.co/library/ - Coleção de Bibliotecas CSS + JavaScript;
 
+## Background Patterns Svg
+
+* http://www.heropatterns.com/
+
 ## Vagrant
 
 * https://scotch.io/tutorials/how-to-create-a-vagrant-base-box-from-an-existing-one
@@ -224,7 +228,6 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * https://www.tinymce.com/ - Editar códigos em site;
 * https://codyhouse.co/gem/vertical-timeline/ - Timeline;
 * https://www.origamid.com/aula/4-2-separadores-e-ornamentos/ - Separadores
-
 
 ## Bootstrap / CSS
 
