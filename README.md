@@ -172,6 +172,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 
 * https://www.youtube.com/watch?v=u7pFzHai8oM - Melhorias no Apache;
 * https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations?utm_medium=social&utm_source=facebook&utm_campaign=apache_vs_nginx_tut&utm_content=image - Apache vs. Ngix;
+* certbot.eff.org - HTTPS
 
 ## NodeJS
 
