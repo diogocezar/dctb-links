@@ -233,6 +233,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 ## Wordpress Themes
 
 * http://html5blank.com/
+* http://themeforest.net/item/kalium-creative-theme-for-professionals/10860525
 
 ## Bootstrap / CSS
 
@@ -268,9 +269,6 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://lab.hakim.se/scroll-effects/
 * http://www.jasonlusk.com/scroll/
 
-## Temas Wordpress
-
-* http://themeforest.net/item/kalium-creative-theme-for-professionals/10860525
 
 ## Temas Linux
 
