@@ -230,6 +230,10 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * https://codyhouse.co/gem/vertical-timeline/ - Timeline;
 * https://www.origamid.com/aula/4-2-separadores-e-ornamentos/ - Separadores
 
+## Wordpress Themes
+
+* http://html5blank.com/
+
 ## Bootstrap / CSS
 
 * http://expo.getbootstrap.com/ - Exemplos bootstrap;
