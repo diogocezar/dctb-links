@@ -209,6 +209,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 ## Tutorial Git
 
 * https://github.com/MuvucaGames/Tutoriais/wiki/%5BWIP%5D-Tutorial-completo-sobre-versionamento-com-GIT
+* https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/
 
 ## HTML / Templates
 
