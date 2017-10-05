@@ -424,6 +424,10 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * Moz - https://moz.com/products/pro
 * http://tableless.com.br/seo-iniciantes-basico/
 
+## Cmander no Windows com o Bash Ubuntu
+
+* https://gingter.org/2016/11/16/running-windows-10-ubuntu-bash-in-cmder/
+
 ## Outros
 
 * Asana - https://app.asana.com/0/102300481623694/102300481623695
