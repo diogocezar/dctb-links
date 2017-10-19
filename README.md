@@ -115,6 +115,10 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 
 * http://www.heropatterns.com/
 
+## Docker
+
+* https://www.youtube.com/watch?v=a0ts9vhaY0w - Curso sobre docker
+
 ## Vagrant
 
 * https://scotch.io/tutorials/how-to-create-a-vagrant-base-box-from-an-existing-one
