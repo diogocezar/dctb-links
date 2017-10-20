@@ -523,3 +523,9 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 * http://codecanyon.net/item/html-builder-frontend-version/full_screen_preview/8432859
 * http://www.layoutit.com/build
 
+## Podcasts - PT
+* http://aparelhoeletrico.com/podcast/
+* https://hipsters.tech/
+* http://devnaestrada.com.br/
+* https://jovemnerd.com.br/playlist/nerdtech/
+
