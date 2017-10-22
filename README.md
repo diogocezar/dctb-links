@@ -6,14 +6,20 @@ Segue um índice para navegação.
 
 ## Índice
 
-1. [Bancos de Imagens](#bancos-de-imagens)
+1. [Design Assets](#design-assets)
 2. [Tutoriais e Cursos](#tutoriais-e-cursos)
 3. [Downloads e Inspirações](#downloads-e-inspiracoes)
 4. [Ferramentas e Tecnologia](#ferramentas-e-tecnologia)
 	1. [JavaScript](#javascript)
-	2. [JQuery & Plugins & Frameworks](#jquery-plugins-frameworks)
+	2. [JQuery & Plugins & Frameworks](#jquery--plugins--frameworks)
+	3. [HTML](#html)
+	4. [CSS](#css)
+	5. [Wordpress](#wordpress)
+	6. [PHP](#php)
+5. [Tecnologias Diversas](#tecnologias-diversas)
+6. [Podcasts](#podcasts)
 
-## Bancos de Imagens
+## Design Assets
 
 Na tabela a seguir estão alguns bancos de imagens que podem ser utilizadas para compor um layout web.
 
@@ -22,32 +28,36 @@ A idéia foi reunir links de bancos de imagens com distribuiçào gratúita.
 | Link                                 | Descrição                                  |
 |--------------------------------------|--------------------------------------------|
 | http://gratisography.com :fire:      | Banco de imagens gratúitas e hipsters      |
-| http://visualhunt.com/               | Banco de imagens                           |
-| https://www.pexels.com/              | Banco de fotografias grátis                |
-| http://epicantus.tumblr.com/         | Tumblr com fotos grátis e originais        |
-| http://kaboompics.com/               | Banco de imagens                           |
-| http://mmtstock.com/                 | Banco de imagens grátis para uso comercial |
+| http://visualhunt.com                | Banco de imagens                           |
+| https://www.pexels.com               | Banco de fotografias grátis                |
+| http://epicantus.tumblr.com          | Tumblr com fotos grátis e originais        |
+| http://kaboompics.com                | Banco de imagens                           |
+| http://mmtstock.com                  | Banco de imagens grátis para uso comercial |
 | https://goo.gl/v42k13                | Banco de imagens grátis                    |
-| http://jaymantri.com/                | Banco de imagens grátis                    |
-| http://snapwiresnaps.tumblr.com/     | Thumblr com imagens gratúitas              |
-| http://freestocks.org/               | Banco de imagens grátis                    |
-| http://getrefe.tumblr.com/           | Thumblr com imagens gratúitas              |
-| http://nos.twnsnd.co/                | Banco de imagens vintage                   |
+| http://jaymantri.com                 | Banco de imagens grátis                    |
+| http://snapwiresnaps.tumblr.com      | Thumblr com imagens gratúitas              |
+| http://freestocks.org                | Banco de imagens grátis                    |
+| http://getrefe.tumblr.com            | Thumblr com imagens gratúitas              |
+| http://nos.twnsnd.co                 | Banco de imagens vintage                   |
 | http://www.imcreator.com/free        | Banco de imagens grátis                    |
-| https://picjumbo.com/                | Imagens grátis enviadas por email          |
-| http://deathtothestockphoto.com/     | Imagens grátis enviadas por email          |
-| http://www.lifeofpix.com/            | Imagens grátis em alta resolução           |
-| http://littlevisuals.co/             | 7 imagens em alta resolução em seu email   |
-| http://www.splitshire.com/           | Banco de imagens e videos em alta grátis   |
-| http://negativespace.co/             | Banco de imagens alta resolução grátis     |
-| https://unsplash.com/                | Bonitas fotos gratúitas                    |
-| https://stocksnap.io/                | Bonitas fotos gratúitas                    |
-| http://jeshoots.com/                 | Banco de imagens gratúitas                 |
-| http://pixabay.com/                  | Banco de imagens gratúitas                 |
-| http://cupcake.nilssonlee.se/ :fire: | Banco de imagens gratúitas e hipsters      |
-| http://www.uhdwallpapers.org/        | Banco de wallpappers gratúitas em HD       |
-| http://foodiesfeed.com/              | Banco de imagens de comidas gratúitas      |
-| http://www.raumrot.com/10/           | Lista com bancos de imagens                |
+| https://picjumbo.com                 | Imagens grátis enviadas por email          |
+| http://deathtothestockphoto.com      | Imagens grátis enviadas por email          |
+| http://www.lifeofpix.com             | Imagens grátis em alta resolução           |
+| http://littlevisuals.co              | 7 imagens em alta resolução em seu email   |
+| http://www.splitshire.com            | Banco de imagens e videos em alta grátis   |
+| http://negativespace.co              | Banco de imagens alta resolução grátis     |
+| https://unsplash.com                 | Bonitas fotos gratúitas                    |
+| https://stocksnap.io                 | Bonitas fotos gratúitas                    |
+| http://jeshoots.com                  | Banco de imagens gratúitas                 |
+| http://pixabay.com                   | Banco de imagens gratúitas                 |
+| http://cupcake.nilssonlee.se :fire:  | Banco de imagens gratúitas e hipsters      |
+| http://www.uhdwallpapers.org         | Banco de wallpappers gratúitas em HD       |
+| http://foodiesfeed.com               | Banco de imagens de comidas gratúitas      |
+| http://www.raumrot.com/10            | Lista com bancos de imagens                |
+| http://graphicburger.com             | Vetores, mock-ups, icons e etc             |
+| http://instantlogosearch.com         | Grande acervo de logos                     |
+| http://www.brusheezy.com             | Arquivos em psd, brushes e actions free    |
+| https://goo.gl/1QGDKJ                | Paleta de Cores                            |
 
 ## Tutoriais e Cursos
 
@@ -156,90 +166,48 @@ Links para plugins JQuery e Frameworks JavaScript.
 | https://goo.gl/3KETmG                | CEP via JQuery                             |
 | https://goo.gl/knWgW3                | Lazy Load Images                           |
 
-***
+### HTML
 
-## Apache
+Dicas e links gerais sobre HTML.
 
-* https://www.youtube.com/watch?v=u7pFzHai8oM - Melhorias no Apache;
-* https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations?utm_medium=social&utm_source=facebook&utm_campaign=apache_vs_nginx_tut&utm_content=image - Apache vs. Ngix;
-* certbot.eff.org - HTTPS
+| Link                                 | Descrição                                  |
+|--------------------------------------|--------------------------------------------|
+| https://goo.gl/CpLsMP                | Legendas em vídeos no HTML                 |
+| https://goo.gl/p9nV67                | Template Admin                             |
+| https://goo.gl/t9LvtV                | Cheat Sheets for Frontend Developers       |
+| https://getmdl.io/                   | Material Design Lite                       |
+| https://goo.gl/BBYhbD                | Desenhar com SVG                           |
+| https://goo.gl/j2fj5V                | Vídeos como Background                     |
+| https://goo.gl/eRkoJ5                | Manipulando SVG com JavaScript             |
+| https://goo.gl/t36DFf                | Experiências com SVG                       |
+| https://goo.gl/1nQJxQ                | SVG com Smil                               |
+| https://goo.gl/2jY3yh                | Seções Full Screen                         |
+| https://goo.gl/fKMQCG                | Usando SVG Sprites                         |
+| https://goo.gl/BchQX9                | Upload de arquivos em HTML5                |
+| https://goo.gl/8fkFt9                | Vetor com SVG                              |
+| https://goo.gl/sijg7E                | Animação SVG                               |
+| https://gooo.gl/krBbb6               | Header animado on Scroll                   |
+| https://www.tinymce.com              | Editor de Textos Web                       |
+| https://goo.gl/z8gdE4                | TimeLine                                   |
+| https://goo.gl/CMCzQ5                | Separadores com HTML                       |
+| https://goo.gl/1QDFbq                | Logo responsiva com SVG                    |
+| https://goo.gl/BLv1gN                | Efeito Paralax                             |
+| https://goo.gl/qa1oAt                | Ícones em SVG                              |
 
-## NodeJS
+## CSS
 
-* http://www.chalkstreet.com/learn-node-js-from-scratch-applications-tutorial-for-beginners/?utm_source=dac&utm_medium=node&utm_campaign=sn - Tutorial;
-* http://nodedecode.com.br/modulos-node-js-socket-io-cluster/ - Socket.io + Cluster;
-* http://webschool.io/bemean/ - NodeJs
-* http://clubedosgeeks.com.br/programacao/node-js/node-js-desenvolvendo-aplicacoes-desktop-com-node-webkit - Criando um executável com NodeJS
-* https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2#.ooapdd9ey - Transformando ECS6 em ECS5;
-* https://github.com/filipedeschamps/rss-feed-emitter - RSS Feed Emitter
+Links sobre CSS.
 
-## MongoDB
+| Link                                 | Descrição                                  |
+|--------------------------------------|--------------------------------------------|
+|  http://expo.getbootstrap.com        | Exemplos BootStrap                         |
+|  https://jonsuh.com/hamburgers       | Menus                                      |
+|  http://www.voxelcss.com             | CSS e 3D                                   |
+|  https://goo.gl/uCRKTB               | Flexbox                                    |
+|  http://flexboxgrid.com              | Grid baseado em Flexbox                    |
+|  https://goo.gl/hvpyAq               | Flexbox                                    |
+|  https://goo.gl/LhKvHS               | Filtros em CSS                             |
 
-* http://webschool.io/bemean/ - MongoDB
-
-## MySQL
-
-* http://performancedb.com.br/blog/archives/176 - MySQL + JSON;
-
-## SublimeText
-
-* http://equinusocio.github.io/material-theme/ - Tema para o Sublime;
-* http://willianjusten.com.br/meus-plugins-favoritos-do-sublime-text/ - Temas e Plugins;
-
-## Tipografia
-
-* https://www.web-font-generator.com/ - Gerador de Fontes para CSS + HTML;
-* http://www.fontsquirrel.com/tools/webfont-generator - Gerador de Fontes para CSS + HTML;
-* http://fabiandesmet.com/portfolio/butler-font/ - Butler Font;
-* https://www.origamid.com/wp-content/uploads/2015/05/tipografia-para-web.pdf - Tipografia para Web;
-* https://onlinefontconverter.com/ - Online Fonte Converter;
-
-## Tutorial Git
-
-* https://github.com/MuvucaGames/Tutoriais/wiki/%5BWIP%5D-Tutorial-completo-sobre-versionamento-com-GIT
-* https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/
-* https://www.udemy.com/git-e-github-para-iniciantes/
-
-## HTML / Templates
-
-* https://braziljs.org/blog/legenda-em-videos-html5/ - Legendas em vídeos no html;
-* https://github.com/tui2tone/flat-admin-bootstrap-templates - Template Admin
-* https://webdesignviews.com/cheat-sheets/ - Cheat Sheets for Frontend Developers;
-* http://www.getmdl.io/index.html - Material Design Lite;
-* http://willianjusten.com.br/efeito-de-desenhar-com-svg/ - Desenhar com SVG;
-* http://cienciacomputacao.com.br/desenvolvimento/coverr-videos-como-background/ - Vídeos como Background;
-* http://willianjusten.com.br/manipulando-svg-com-js/ - SVG + Js;
-* http://willianjusten.com.br/semcomp-2015/#/7 - Vetor;
-* http://willianjusten.com.br/animando-svg-com-smil/ - SVG animado com Smil;
-* http://willianjusten.com.br/como-criar-secoes-fullscreen-com-css/ - Seções Full Screen;
-* http://willianjusten.com.br/usando-svg-sprites/ - Usando SVG's sprites;
-* http://pastebin.com/ZA9shjxU - WebDatabase;
-* https://www.script-tutorials.com/pure-html5-file-upload/ - Upload de arquivos em HTML5;
-* https://24ways.org/2013/animating-vectors-with-svg/ - Vetor com SVG
-* https://davidwalsh.name/svg-animation - Animação SVG
-* http://tympanus.net/codrops/2013/06/06/on-scroll-animated-header/ - Header animado on scroll;
-* https://www.tinymce.com/ - Editar códigos em site;
-* https://codyhouse.co/gem/vertical-timeline/ - Timeline;
-* https://www.origamid.com/aula/4-2-separadores-e-ornamentos/ - Separadores
-
-## Wordpress Themes
-
-* http://html5blank.com/
-* http://themeforest.net/item/kalium-creative-theme-for-professionals/10860525
-
-## Wordpres Plugins
-
-* https://www.advancedcustomfields.com/
-
-## Bootstrap / CSS
-
-* http://expo.getbootstrap.com/ - Exemplos bootstrap;
-* https://jonsuh.com/hamburgers/ - Menus;
-* http://www.voxelcss.com/ - CSS 3D;
-* http://imasters.com.br/front-end/css/centralizando-conteudo-na-vertical-e-na-horizontal-com-css-flexbox/ - Flexbox;
-* http://flexboxgrid.com/ - A grid system based on the flex display property;
-* http://philipwalton.github.io/solved-by-flexbox/ - Flexbox;
-* http://willianjusten.com.br/filtros-css/ - Filtros em CSS;
 * http://msurguy.github.io/background-blur/ - Background Blur;
 * http://willianjusten.com.br/alguns-seletores-css-importantes-para-aprender/ - Seletores Importantes;
 * http://fezvrasta.github.io/bootstrap-material-design - Material Design + Bootstrap;
@@ -256,96 +224,117 @@ Links para plugins JQuery e Frameworks JavaScript.
 * https://codepen.io/nxworld/pen/ZYNOBZ - Efeitos houver imagens;
 * http://shoelace.io/ - Visual Bootstrap;
 * http://cssreference.io/ - Referências de Comandos em CSS;
-
-## Efeitos
-
 * https://daneden.github.io/animate.css/
 * https://elrumordelaluz.github.io/csshake/
 * http://mynameismatthieu.com/WOW/
 * http://lab.hakim.se/scroll-effects/
 * http://www.jasonlusk.com/scroll/
-
-
-## Temas Linux
-
-* http://itsfoss.com/install-numix-ubuntu/
-
-## Git
-
-* https://git-scm.com/book/pt-br/v1/Ramifica%C3%A7%C3%A3o-Branching-no-Git-B%C3%A1sico-de-Branch-e-Merge
-* https://about.gitlab.com/downloads/#ubuntu1604 - Install Git Lab
-* https://braziljs.org/blog/profissionalizando-seus-projetos-no-github-2/ - Dicas para usar o GitHub
-
-## PHP
-
-* http://www.douglaspasqua.com/2015/05/24/criando-aplicativos-facebook-sdk-v5-em-php/ - Facebook e PHP;
-* http://reactphp.org/ - ReactPHP (React is a low-level library for event-driven programming in PHP);
-* http://socketo.me/ - Websockets com PHP;
-* http://www.codeigniter.com/ - Framework PHP;
-* http://forum.imasters.com.br/topic/489419-exportando-relatorio-para-pdf/ - PDF com PHP;
-* https://github.com/masterexploder/PHPThumb/wiki/Basic-Usage - Manipulação de Imagens;
-
-## Ferramentas para Gerência de Projetos
-
-* http://cienciacomputacao.com.br/desenvolvimento/solo-gerencie-seus-projetos-facilmente/ - Solo;
-* www.slack.com - Slack;
-
-## Linux
-
-* http://www.howtogeek.com/104708/how-to-customize-ubuntus-message-of-the-day/ - Alterando mensagem do dia;
-
-## Diversos
-
-* http://portillodesign.com.br/programacao/sefaz-como-fazer-integracao-nfe-cte.html - Notas Fiscais;
-* http://devdocs.io/ - Documentações de Várias Linguagens de Programação;
-* http://willianjusten.com.br/links-da-semana-6/ - Vários Links Interessantes;
-* https://www.digitalocean.com/community/tutorials/how-to-use-ps-kill-and-nice-to-manage-processes-in-linux - How To Use ps, kill, and nice to Manage Processes in Linux;
-* http://ionicframework.com/ - Ionic: Advanced HTML5 Hybrid Mobile App Framework;
-* https://browserdiet.com/pt/ - Como perder peso no browser;
-* http://imgur.com/1c9y0 - Linux - Terminal Commands;
-* https://www.pubnub.com/blog/2014-10-21-building-a-webrtc-video-and-voice-chat-application/ - Call Video;
-* http://viverdeblog.com/usabilidade-conversao/ - Usabilidade Conversão;
-* http://www.gigga.com.br/2015/07/06/novo-framework-do-google-leva-material-design-para-paginas-da-web/ - Material Design para Web;
-* http://rohanbernartt.com.br/ubuntu-como-ambiente-de-desenvolvimento-php/ - Ubuntu como ambiente de desenvolvimento web;
-* http://willianjusten.com.br/como-se-tornar-um-desenvolvedor-front-end/ - Como se tornar um desenvolvedor Front-End;
-* https://medium.com/brasil/trezentas-coisas-gratuitas-e-sensacionais-para-empreendedores-e-startups-4d054afd6395#.5trtora5r - Trezentas coisas Gratuitas para Startups;
-* http://www.designculture.com.br/extensoes-gratuitas-do-photoshop-para-designers/ - Extensões Gratuitas para Photoshop;
-* https://mega.co.nz/#F!CNoRyJgS!UukXMgpWDAMgZ3dFO-tUlA
-* https://www.mailpile.is/ - Cliente de Email Local;
-* http://it-ebooks-search.info/ - Ebooks Gratuitos;
-* http://libgen.io - Materiais Gratuitos;
-* https://tasafo.wordpress.com/2014/08/09/iniciando-com-elasticsearch/ - Elastic Search;
-* https://www.youtube.com/watch?v=xtqMatzVoSA - Advanced Custom Fields Wordpress Plugin;
-* http://blog.da2k.com.br/2015/02/05/segredos-do-github-hospedando-seu-site-no-github/ - Hospedando seu site no GitHub;
-* http://www.mettzer.com/ - Plataforma para Confecção de TCC nas normas da ABNT;
-* https://www.import.io - Ferramenta para importação de dados;
-* https://github.com/CodeSeven/toastr - Toast em site;
-* http://www.json-generator.com/ - Gerador de JSON;
-* http://www.allitebooks.com/ - Livros de TI;
-* https://markdown-it.github.io/ - Markdown live preview;
-* http://blog.cloudfour.com/responsive-logo-composition-with-svg/ - Logo responsiva com SVG;
 * http://css4rocks.cygenic.com/selectors-level-4/?utm_source=html5weekly&utm_medium=email - Seletores CSS4;
-* http://design.google.com/resizer/ - Google Resizer;
-* http://willianjusten.com.br/criando-efeito-parallax-no-header/ - Efeito Paralax;
-* http://fvsch.com/code/svg-icons/how-to/ - Ícones em SVG;
-* https://www.youtube.com/watch?v=KJG1dETacLI - Expressões Regulares;
-* http://tableless.com.br/lojas-virtuais-com-woocommerce/ - WooCommerce;
-* http://instacod.es/ - Imagem para códigos instagram;
-* http://www.z-cron.com/ - Cron no windows;
 
-## Web Mobile Optimizing
+### Wordpress
 
-* http://blog.teamtreehouse.com/optimizing-mobile-web-apps-ios
+Alguns links e tecnologias sobre Wordpress.
 
-## Design Assets
+| Link                                 | Descrição                                  |
+|--------------------------------------|--------------------------------------------|
+| http://html5blank.com                | Um tema limpo para customização            |
+| https://goo.gl/XaP1uB                | Tema Kalium                                |
+| https://goo.gl/KGsDbG                | Tema Divi                                  |
+| https://www.advancedcustomfields.com | Plugin para customização de campos         |
+| https://goo.gl/uRzwbG                | Tutorial ACF                               |
+| https://goo.gl/tViuNa                | WooCommerce                                |
 
-* https://pixabay.com/ - Site gratuito de imagens em alta resolução;
-* https://www.pexels.com/ - Tbm é gratuito porém acervo é menor que o primeiro;
-* http://graphicburger.com/ - Vetores, mock-ups, icons e etc;
-* http://instantlogosearch.com/ - Grande acervo de logos;
-* http://www.brusheezy.com/ - Arquivos em psd, contém brushes e actions gratuitos;
-* http://www.inspi.com.br/2016/05/8-sites-para-te-ajudar-escolher-palheta-de-cores-ideal/ - Paleta de Cores;
-* https://visualhunt.com/ - Imagens Creative Commons;
+### PHP
+
+Alguns links sobre a linguagem de programação PHP.
+
+| Link                                 | Descrição                                  |
+|--------------------------------------|--------------------------------------------|
+| https://goo.gl/Vh1rHs                | Facebook e PHP                             |
+| http://reactphp.org                  | ReactPHP                                   |
+| http://socketo.me                    | Websockets com PHP                         |
+| http://www.codeigniter.com           | Framework Codeingniter para PHP            |
+| https://goo.gl/ZMfDJW                | PDF com PHP                                |
+| https://goo.gl/Tevwge                | Manipulação de Imagens                     |
+| https://cakephp.org/                 | CakePHP                                    |
+| https://laravel.com/                 | Laravel                                    |
+
+## Tecnologias Diversas
+
+Um apanhado de links sobre diversas tecnologias.
+
+| Link                                 | Descrição                                  | Tecnologia    |
+|--------------------------------------|--------------------------------------------|---------------|
+| https://goo.gl/aLH5Ni                | Segurança no Apache                        | Apache        |
+| https://goo.gl/WfjFpt                | Apache vs. Nginx                           | Servidor Web  |
+| https://goo.gl/BWSa82                | Tutorial Básico NodeJS                     | NodeJS        |
+| https://goo.gl/BshXDm                | Socket.io & Cluster                        | NodeJS        |
+| https://goo.gl/6gfkWd                | Criando um executável com NodeJS           | NodeJS        |
+| https://goo.gl/G6jVSf                | Transformando ECS6 em ECS5                 | NodeJS        |
+| https://goo.gl/4Qc4yJ                | RSS Feed Emitter                           | NodeJS        |
+| http://webschool.io/bemean           | Básico do MEAN                             | MongoDB       |
+| https://goo.gl/DeybNa                | Usando JSON com MySQL                      | MySQL + JSON  |
+| https://goo.gl/m74cGQ                | Material Theme para o SublimeText          | SublimeText   |
+| https://goo.gl/SGRVKQ                | Temas e Plugins                            | SublimeText   |
+| https://github.com/tonsky/FiraCode   | Fonte Para Editores de Texto               | SublimeText   |
+| https://www.web-font-generator.com   | Gerador de Fontes para CSS + HTML          | Tipografia    |
+| https://goo.gl/utD9fS                | Gerador de Fontes para CSS + HTML          | Tipografia    |
+| https://goo.gl/E3DzPw                | Butler Font                                | Tipografia    |
+| https://onlinefontconverter.com      | Conversor de Fonte Online                  | Tipografia    |
+| https://goo.gl/6hz4Y3                | Tutorial Git                               | Git           |
+| https://goo.gl/mhk3p9                | Do clone ao Pull Request                   | Git           |
+| https://goo.gl/P23NaS                | Git e GitHub para iniciantes               | Git           |
+| https://goo.gl/2XTamd                | Básico do Branch e Merge                   | Git           |
+| https://goo.gl/JoquJr                | Instalando o Git Lab                       | Git           |
+| https://goo.gl/Ns4PYv                | Dicas para usar o GitHub                   | Git           |
+| https://goo.gl/iJTPmm                | Temas para Linux                           | Linux         |
+| https://goo.gl/WyzGNQ                | Como usar ps e kill                        | Linux         |
+| http://imgur.com/1c9y0               | Terminal Commands                          | Linux         |
+| https://goo.gl/UmU8vN                | Ubuntu como ambiente de desenvolvimento web| Linux         |
+| https://goo.gl/bsXhzp                | Otimizando Web Apps IOS                    | Otimização    |
+| https://browserdiet.com/pt           | Como perder peso no browser                | Otimização    |
+| http://pastebin.com/ZA9shjxU         | Exemplo Web Database                       | Web Database  |
+| https://goo.gl/AKd7VH                | Metodologia Solo                           | Projetos      |
+| www.slack.com                        | Ferramenta de Couminçação                  | Projetos      |
+| www.rocket.chat                      | Ferramenta de Couminçação                  | Projetos      |
+| https://goo.gl/vQABGm                | Notas Fiscais                              | Notas Fiscais |
+| http://devdocs.io                    | Documentações Variadas                     | Documentação  |
+| https://goo.gl/TWdnug                | Links Interessantes                        | Links         |
+| http://ionicframework.com            | Ionic Desenvolvimento Híbrido              | Híbridos      |
+| https://goo.gl/WPKYGy                | Vídeo Call                                 | Vídeo Call    |
+| https://goo.gl/yVpgLs                | Usabilidade -> Conversão                   | Usabilidade   |
+| https://goo.gl/nYyiSi                | Material Design para Web                   | Design        |
+| https://goo.gl/JbE3hf                | Como se tornar um desenvolvedor Front-End  | Motivação     |
+| https://goo.gl/NGP5ft                | Trezentas coisas Gratuitas para Startups   | Dica          |
+| https://goo.gl/weJQ4S                | Extensões Gratuitas para Photoshop         | Photoshop     |
+| https://www.mailpile.is              | Cliente de Email Local                     | Mail          |
+| http://it-ebooks-search.info         | Ebooks Gratuitos                           | Livros        |
+| http://www.allitebooks.com           | Livros de TI                               | Livros        |
+| http://libgen.io                     | Materiais Gratuitos                        | Materiais     |
+| https://goo.gl/EQHExM                | Elastic Search                             | Elastic Search|
+| https://goo.gl/52x9aY                | Hospedando seu site no GitHub              | Hospedagem    |
+| http://www.mettzer.com               | TCC nas normas ABNT                        | TCC           |
+| http://www.mettzer.com               | Ferramenta para importação de dados        | Importação    |
+| http://codeseven.github.io/toastr    | Toast                                      | Interface     |
+| http://www.json-generator.com        | Gerador de JSON                            | JSON          |
+| https://markdown-it.github.io        | Markdown live preview                      | Markdown      |
+| https://material.io/resizer          | Resizer do Google                          | Resizer       |
+| https://goo.gl/ea2Z2x                | Expressões Regulares                       | Exp. Regular  |
+| http://instacod.es                   | Imagem para códigos instagram              | Outros        |
+| http://www.z-cron.com                | Cron no Windows                            | Cron          |
+
+## Podcasts
+
+Alguns podcasts que recomendamos.
+
+| Link                                 | Descrição                                  |
+|--------------------------------------|--------------------------------------------|
+| http://aparelhoeletrico.com/podcast  | Podcast em PT-BR                           |
+| https://hipsters.tech                | Podcast em PT-BR                           |
+| http://devnaestrada.com.br           | Podcast em PT-BR                           |
+| https://goo.gl/wXWLQ3                | Jovem Nerd Tech                            |
+
+---
 
 ## Usabilidade e Pesquisa
 
@@ -412,10 +401,6 @@ Links para plugins JQuery e Frameworks JavaScript.
 * OpenLinkProfiler - http://openlinkprofiler.org/
 * Moz - https://moz.com/products/pro
 * http://tableless.com.br/seo-iniciantes-basico/
-
-## Cmander no Windows com o Bash Ubuntu
-
-* https://gingter.org/2016/11/16/running-windows-10-ubuntu-bash-in-cmder/
 
 ## Outros
 
@@ -507,9 +492,3 @@ Links para plugins JQuery e Frameworks JavaScript.
 * https://bootstrapstudio.io/
 * http://codecanyon.net/item/html-builder-frontend-version/full_screen_preview/8432859
 * http://www.layoutit.com/build
-
-## Podcasts - PT
-* http://aparelhoeletrico.com/podcast/
-* https://hipsters.tech/
-* http://devnaestrada.com.br/
-* https://jovemnerd.com.br/playlist/nerdtech/
