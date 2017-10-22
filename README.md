@@ -1,28 +1,40 @@
-# My Links
+# Meus Links Favoritos
 
 Olá pessoas, neste repositório estão organizados os principais links para vários serviços, componenetes e ferramentas relacionadas ao desenvolvimento web.
 
 Segue um índice para navegação.
 
+***
+
 ## Índice
 
 1. [Design Assets](#design-assets)
-2. [Tutoriais e Cursos](#tutoriais-e-cursos)
-3. [Downloads e Inspirações](#downloads-e-inspiracoes)
-4. [Ferramentas e Tecnologia](#ferramentas-e-tecnologia)
+2. [Imagens vetorizadas](#imagens-vetorizadas)
+3. [Ícones](#icones)
+4. [Paleta de Cores](#paleta-de-cores)
+5. [Tutoriais e Cursos](#tutoriais-e-cursos)
+6. [Downloads e Inspirações](#downloads-e-inspiracoes)
+7. [Ferramentas e Tecnologia](#ferramentas-e-tecnologia)
 	1. [JavaScript](#javascript)
 	2. [JQuery & Plugins & Frameworks](#jquery--plugins--frameworks)
 	3. [HTML](#html)
 	4. [CSS](#css)
 	5. [Wordpress](#wordpress)
 	6. [PHP](#php)
-5. [Tecnologias Diversas](#tecnologias-diversas)
-6. [Podcasts](#podcasts)
-7. [Usabilidade e Pesquisa](#usabilidade-e-pesquisa)
-8. [Arquitetura de Informação, Fluxogramas e SiteMaps](#arquitetura-da-informacao-fluxogramas-e-sitemaps)
-9. [Wireframes e Prototipação](#wireframes-e-prototipacao)
-10. [Codificação](#codificacao)
+8. [Tecnologias Diversas](#tecnologias-diversas)
+9. [Podcasts](#podcasts)
+10. [Usabilidade e Pesquisa](#usabilidade-e-pesquisa)
+11. [Arquitetura de Informação, Fluxogramas e SiteMaps](#arquitetura-da-informacao-fluxogramas-e-sitemaps)
+12. [Wireframes e Prototipação](#wireframes-e-prototipacao)
+13. [Codificação](#codificacao)
+14. [Codificação online](#codificacao-online)
+15. [SEO & Otimização](#seo--otimizacao)
+16. [Compressão de Imagens](#compressao-de-imagens)
+17. [UI & UI](#ux--ui)
+18. [Transferência de Arquivo](#transferencia-de-arquivo)
+19. [Conferência](#conferencia)
 
+***
 
 ## Design Assets
 
@@ -63,6 +75,63 @@ A idéia foi reunir links de bancos de imagens com distribuiçào gratúita.
 | http://instantlogosearch.com         | Grande acervo de logos                     |
 | http://www.brusheezy.com             | Arquivos em psd, brushes e actions free    |
 | https://goo.gl/1QGDKJ                | Paleta de Cores                            |
+| http://freepsds.org                  | Arquivos em PSD                            |
+| http://pt.365psd.com                 | Arquivos em PSD                            |
+| http://www.pixeden.com               | Arquivos em PSD                            |
+| http://www.premiumpixels.com         | Arquivos em PSD                            |
+| http://freebiesbug.com               | Arquivos em PSD                            |
+| http://pt.clipart.me                 | Arquivos em PSD                            |
+| http://uidock.com                    | Arquivos em PSD                            |
+| http://www.freepik.com               | Arquivos em PSD                            |
+| http://freepsdfiles.net              | Arquivos em PSD                            |
+| http://www.psdgraphics.com           | Arquivos em PSD                            |
+| http://psdreams.com                  | Arquivos em PSD                            |
+| http://www.brusheezy.com/psds        | Arquivos em PSD                            |
+| http://psdblast.com                  | Arquivos em PSD                            |
+
+## Imagens vetorizadas
+
+Alguns links para achar imagens vetorizadas.
+
+| Link                                 | Descrição                                  |
+|--------------------------------------|--------------------------------------------|
+| http://www.vecteezy.com              | Imagens vetorizadas                        |
+| http://vector.so                     | Imagens vetorizadas                        |
+| http://www.freevectors.net           | Imagens vetorizadas                        |
+| https://www.vectorstock.com          | Imagens vetorizadas                        |
+| http://pt.vector.me                  | Imagens vetorizadas                        |
+| http://www.freevector.com            | Imagens vetorizadas                        |
+
+## Icones
+
+Links para biblioteca de ícones
+
+| Link                                 | Descrição                                  |
+|--------------------------------------|--------------------------------------------|
+| https://icomoon.io                   | Biblioteca de ícones                       |
+| http://paymentfont.io                | Biblioteca de ícones                       |
+| http://iosicongallery.com            | Biblioteca de ícones                       |
+| https://www.iconfinder.com           | Biblioteca de ícones                       |
+| http://findicons.com                 | Biblioteca de ícones                       |
+| http://www.iconarchive.com           | Biblioteca de ícones                       |
+| http://iconmonstr.com                | Biblioteca de ícones                       |
+| http://flaticons.net                 | Biblioteca de ícones                       |
+| http://famfamfam.com                 | Biblioteca de ícones                       |
+| http://www.iconspedia.com            | Biblioteca de ícones                       |
+| http://fonticons.net                 | Biblioteca de ícones                       |
+| http://flaticon.io                   | Biblioteca de ícones                       |
+| http://fontello.com                  | Biblioteca de ícones                       |
+
+## Paleta de cores
+
+Opções para criação de paleta de cores;
+
+| Link                                 | Descrição                                  |
+|--------------------------------------|--------------------------------------------|
+| http://colorphile.com                | Paleta de Cores                            |
+| http://clrs.cc                       | Palera de Cores                            |
+| http://brandcolors.net               | Cores de logos e empresas famosas          |
+| http://cymbolism.com                 | Significado das cores                      |
 
 ## Tutoriais e Cursos
 
@@ -298,8 +367,9 @@ Um apanhado de links sobre diversas tecnologias.
 | https://browserdiet.com/pt           | Como perder peso no browser                | Otimização    |
 | http://pastebin.com/ZA9shjxU         | Exemplo Web Database                       | Web Database  |
 | https://goo.gl/AKd7VH                | Metodologia Solo                           | Projetos      |
-| www.slack.com                        | Ferramenta de Couminçação                  | Projetos      |
-| www.rocket.chat                      | Ferramenta de Couminçação                  | Projetos      |
+| https://www.slack.com                | Ferramenta de Couminçação                  | Projetos      |
+| https://www.rocket.chat              | Ferramenta de Couminçação                  | Projetos      |
+| https://asana.com                    | Ferramenta de Comunicação                  | Projetos      |
 | https://goo.gl/vQABGm                | Notas Fiscais                              | Notas Fiscais |
 | http://devdocs.io                    | Documentações Variadas                     | Documentação  |
 | https://goo.gl/TWdnug                | Links Interessantes                        | Links         |
@@ -325,6 +395,7 @@ Um apanhado de links sobre diversas tecnologias.
 | https://goo.gl/ea2Z2x                | Expressões Regulares                       | Exp. Regular  |
 | http://instacod.es                   | Imagem para códigos instagram              | Outros        |
 | http://www.z-cron.com                | Cron no Windows                            | Cron          |
+| https://goo.gl/XbQZtX                | Processo de Criação Web                    | Dev. Web      |
 
 ## Podcasts
 
@@ -386,118 +457,82 @@ Ferramentas para Codificação.
 | https://www.sublimetext.com          | SublimeText                                |
 | https://code.visualstudio.com        | Visual Studio Code                         |
 | http://brackets.io                   | Brackets                                   |
-| https://wakatime.com                 | Wakatime - Tempo de Coding                 |
+| https://wakatime.com                 | Wakatime - Tempo de Codding                |
 | https://atom.io                      | Atom                                       |
 
----
 
 ## Codificação online
-* Tutorials Point - http://www.tutorialspoint.com/codingground.htm
-* JSFiddle - https://jsfiddle.net/
-* Codepen - http://codepen.io/
-* Plunker - https://plnkr.co/
-* C9 - https://c9.io/
+
+Ferramentas para Codificação online.
+
+| Link                                 | Descrição                                  |
+|--------------------------------------|--------------------------------------------|
+| https://jsfiddle.net                 | JSFiddle                                   |
+| http://codepen.io                    | Codepen                                    |
+| https://plnkr.co                     | Plunker                                    |
+| https://c9.io                        | C9                                         |
 
 ## SEO & Otimização
 
-* Google Webmaster - https://www.google.com/intl/pt-BR/webmasters/#?modal_active=none
-* Google Analytics - https://www.google.com/intl/pt-BR/analytics/
-* Good Adwords (Key Planner) - https://adwords.google.com.br/KeywordPlanner
-* Bing Webmaster - http://www.bing.com/toolbox/webmaster
-* Woorank - https://www.woorank.com/pt
-* OpenLinkProfiler - http://openlinkprofiler.org/
-* Moz - https://moz.com/products/pro
-* http://tableless.com.br/seo-iniciantes-basico/
+Ferramentas para SEO e Otimizações.
 
-## Outros
+| Link                                 | Descrição                                  |
+|--------------------------------------|--------------------------------------------|
+| https://goo.gl/QUZd34                | Google Webmaster                           |
+| https://goo.gl/9opQzY                | Google Analytics                           |
+| https://goo.gl/1B6vdg                | Good Adwords (Key Planner)                 |
+| https://goo.gl/yjbuuT                | Bing Webmaster                             |
+| https://goo.gl/yjbuuT                | Bing Webmaster                             |
+| https://goo.gl/yjbuuT                | Bing Webmaster                             |
+| https://www.woorank.com/pt           | Woorank                                    |
+| http://openlinkprofiler.org/         | OpenLinkProfiler                           |
+| https://moz.com/products/pro         | Moz                                        |
+| https://goo.gl/H1f1zH                | SEO Básico para Iniciantes                 |
 
-* Asana - https://app.asana.com/0/102300481623694/102300481623695
-* Redepen - https://redpen.io/
-* GhostLab (Igual ao AdobeEdge) - https://www.vanamco.com/ghostlab/
-
-## Processo de Criação Web
-
-* https://www.youtube.com/watch?v=f15NQEyKoDU
 
 ## Compressão de Imagens
 
-* TinyPNG - https://tinypng.com/
-* PNGQuant - https://pngquant.org/
-* Plugin Photoshop PNGQuant - http://www.fnordware.com/superpng/
+Ferramentas para compressão de imagens.
 
----
+| Link                                 | Descrição                                  |
+|--------------------------------------|--------------------------------------------|
+| https://tinypng.com                  | TinyPNG                                    |
+| https://pngquant.org                 | PNGQuant                                   |
+| http://www.fnordware.com/superpng    | Plugin Photoshop PNGQuant                  |
 
-## UX / UI
+## UX&UI
 
-* http://chocoladesign.com/design-basico-diferenca-entre-ux-e-ui-design
-* http://arquiteturadeinformacao.com/mercado-e-carreira/o-mito-do-hibrido-uxui-designer
+Dicas para UX e UI.
 
-## Fontes
-
-* https://www.google.com/fonts#ReviewPlace:refine/Collection:Oswald|Roboto|Roboto+Condensed|Open+Sans|Open+Sans+Condensed:300
+| Link                                 | Descrição                                  |
+|--------------------------------------|--------------------------------------------|
+| https://goo.gl/rWE55b                | Diferença entre UX e UI                    |
+| https://goo.gl/qUd9oA                | Mito híbrido UX e UI Designer              |
 
 ## Transferência de Arquivo
 
- *  https://reep.io
- *  http://www.wetransfer.com
- *  http://www.mega.nz
+Links para serviços de transferência de arquivos.
+
+| Link                                 | Descrição                                  |
+|--------------------------------------|--------------------------------------------|
+| https://reep.io                      | ReepIO                                     |
+| http://www.wetransfer.com            | WeTransfer                                 |
+| http://www.mega.nz                   | Mega.nz                                    |
 
 ## Conferência
 
-* https://role.vc
-* https://appear.in
-* https://www.cyclops.io/
+Links para realização de vídeo conferências.
 
-## Paleta de cores
+| Link                                 | Descrição                                  |
+|--------------------------------------|--------------------------------------------|
+| https://role.vc                      | Role.vc                                    |
+| https://appear.in                    | Appear.in                                  |
+| https://www.cyclops.io               | Ciclops.io                                 |
 
-* http://colorphile.com/ - Escolher cores;
-* http://clrs.cc/ - Escolher cores;
-* http://brandcolors.net/ - Cores de logos e empresas famosas;
-* http://cymbolism.com/ - Significado de cores;
+***
 
-## Imagens em PSD
+É isso pessoal.
 
-* http://freepsds.org/
-* http://pt.365psd.com/
-* http://www.pixeden.com/
-* http://www.premiumpixels.com/
-* http://freebiesbug.com/
-* http://pt.clipart.me/
-* http://uidock.com/
-* http://www.freepik.com/
-* http://freepsdfiles.net/
-* http://www.psdgraphics.com/
-* http://psdreams.com/
-* http://www.brusheezy.com/psds
-* http://psdblast.com/
+Sintam-se a vontade para ajudar e melhorar os links.
 
-## Imagens vetorizadas
-
-* http://www.vecteezy.com/
-* http://vector.so/
-* http://www.freevectors.net/
-* https://www.vectorstock.com/free-vectors
-* http://pt.vector.me/
-* http://www.freevector.com/
-
-## Icones
-
-* https://fortawesome.github.io/Font-Awesome/icons/
-* https://icomoon.io/
-* http://paymentfont.io/
-* http://iosicongallery.com/
-* https://www.iconfinder.com/
-* http://findicons.com/
-* http://www.iconarchive.com/
-* http://iconmonstr.com/
-* http://flaticons.net/
-* http://famfamfam.com/
-* http://www.iconspedia.com/
-* http://fonticons.net/
-* http://flaticon.io/
-* http://fontello.com/
-
-## Construtor de páginas
-* https://bootstrapstudio.io/
-* http://codecanyon.net/item/html-builder-frontend-version/full_screen_preview/8432859
-* http://www.layoutit.com/build
+Abraços.
