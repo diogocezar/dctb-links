@@ -18,6 +18,11 @@ Segue um índice para navegação.
 	6. [PHP](#php)
 5. [Tecnologias Diversas](#tecnologias-diversas)
 6. [Podcasts](#podcasts)
+7. [Usabilidade e Pesquisa](#usabilidade-e-pesquisa)
+8. [Arquitetura de Informação, Fluxogramas e SiteMaps](#arquitetura-da-informacao-fluxogramas-e-sitemaps)
+9. [Wireframes e Prototipação](#wireframes-e-prototipacao)
+10. [Codificação](#codificacao)
+
 
 ## Design Assets
 
@@ -200,36 +205,34 @@ Links sobre CSS.
 
 | Link                                 | Descrição                                  |
 |--------------------------------------|--------------------------------------------|
-|  http://expo.getbootstrap.com        | Exemplos BootStrap                         |
-|  https://jonsuh.com/hamburgers       | Menus                                      |
-|  http://www.voxelcss.com             | CSS e 3D                                   |
-|  https://goo.gl/uCRKTB               | Flexbox                                    |
-|  http://flexboxgrid.com              | Grid baseado em Flexbox                    |
-|  https://goo.gl/hvpyAq               | Flexbox                                    |
-|  https://goo.gl/LhKvHS               | Filtros em CSS                             |
-
-* http://msurguy.github.io/background-blur/ - Background Blur;
-* http://willianjusten.com.br/alguns-seletores-css-importantes-para-aprender/ - Seletores Importantes;
-* http://fezvrasta.github.io/bootstrap-material-design - Material Design + Bootstrap;
-* https://bootstrap-datepicker.readthedocs.org/en/latest/ - Calendário em Bootstrap;
-* https://mjolnic.com/bootstrap-colorpicker/ - Color picker;
-* https://daneden.github.io/animate.css/ - Animação utilizando CSS;
-* https://silviomoreto.github.io/bootstrap-select/examples/ - Select para bootstrap;
-* http://hackerthemes.com/bootstrap-cheatsheet/ - Bootstrap 4 Cheat Sheet;
-* https://cssanimation.rocks/twitter-fave/ - Animação de Ícones;
-* http://codepen.io/origamid/details/KzRLKJ - Calc em Grids;
-* https://css-tricks.com/snippets/css/complete-guide-grid/ - Guia Completo Grids;
-* http://clovisdasilvaneto.github.io/anima-es-avan-adas-com-css3-introdu-o/ - Animações CSS;
-* https://codeappweb.blogspot.com.br/2016/05/animaciones-css3-framework-list.html?platform=hootsuite - Animações CSS + JS;
-* https://codepen.io/nxworld/pen/ZYNOBZ - Efeitos houver imagens;
-* http://shoelace.io/ - Visual Bootstrap;
-* http://cssreference.io/ - Referências de Comandos em CSS;
-* https://daneden.github.io/animate.css/
-* https://elrumordelaluz.github.io/csshake/
-* http://mynameismatthieu.com/WOW/
-* http://lab.hakim.se/scroll-effects/
-* http://www.jasonlusk.com/scroll/
-* http://css4rocks.cygenic.com/selectors-level-4/?utm_source=html5weekly&utm_medium=email - Seletores CSS4;
+| http://expo.getbootstrap.com         | Exemplos BootStrap                         |
+| https://jonsuh.com/hamburgers        | Menus                                      |
+| http://www.voxelcss.com              | CSS e 3D                                   |
+| https://goo.gl/uCRKTB                | Flexbox                                    |
+| http://flexboxgrid.com               | Grid baseado em Flexbox                    |
+| https://goo.gl/hvpyAq                | Flexbox                                    |
+| https://goo.gl/LhKvHS                | Filtros em CSS                             |
+| https://goo.gl/RiaPzL                | Background Blur                            |
+| https://goo.gl/vx4uu7                | Seletores Importantes                      |
+| https://goo.gl/rniFHP                | Material Design + Bootstrap                |
+| https://goo.gl/uf5HFA                | Calendário em Bootstrap                    |
+| https://goo.gl/gnD6Rm                | Color picker                               |
+| https://goo.gl/yxcAMd                | Animação utilizando CSS                    |
+| https://goo.gl/rjCtN7                | Select para BootStrap                      |
+| https://goo.gl/K6V2GR                | Bootstrap 4 Cheat Sheet                    |
+| https://goo.gl/oChCY7                | Animação de Ícones                         |
+| https://goo.gl/GYWnnX                | Calc em Grids                              |
+| https://goo.gl/vcTafA                | Guia Completo Grids                        |
+| https://goo.gl/5AAhUJ                | Animações CSS                              |
+| https://goo.gl/LALpBw                | Animações CSS e JavaScript                 |
+| https://goo.gl/pPfs47                | Efeitos Houver Imanges                     |
+| http://shoelace.io                   | Ferramenta Visual para Bootstrap           |
+| http://cssreference.io               | Referências de Comandos em CSS             |
+| https://goo.gl/PX2hBf                | Efeito Tremendo (CSSShake)                 |
+| https://goo.gl/qhkXmd                | Efeitos CSS (WOW)                          |
+| http://lab.hakim.se/scroll-effects   | Efeitos Scroll                             |
+| http://www.jasonlusk.com/scroll      | Efeitos Scroll                             |
+| https://goo.gl/zTLuC1                | Seletores CSS4                             |
 
 ### Wordpress
 
@@ -334,55 +337,59 @@ Alguns podcasts que recomendamos.
 | http://devnaestrada.com.br           | Podcast em PT-BR                           |
 | https://goo.gl/wXWLQ3                | Jovem Nerd Tech                            |
 
----
-
 ## Usabilidade e Pesquisa
 
-* UsabilityHub - https://usabilityhub.com/
-* Usabilla - https://usabilla.com/
-* Morae - https://www.techsmith.com/morae.html
-* Testaisso - http://www.testaisso.com.br/
-* Dribbble - https://dribbble.com/
-* Behance - https://www.behance.net/
-* MaterialUp - http://www.materialup.com/
-* Pintrest - https://br.pinterest.com/
-* Calltoidea - http://www.calltoidea.com/
+Ferramentas para usabilidade e pesquisa para briefing.
+
+| Link                                 | Descrição                                  |
+|--------------------------------------|--------------------------------------------|
+| https://usabilityhub.com             | UsabilityHub                               |
+| https://usabilla.com                 | Usabilla                                   |
+| https://www.techsmith.com/morae.html | Morae                                      |
+| http://www.testaisso.com.br          | Testaisso                                  |
+| https://dribbble.com                 | Dribbble                                   |
+| https://www.behance.net              | Behance                                    |
+| http://www.materialup.com            | MaterialUp                                 |
+| https://br.pinterest.com             | Pintrest                                   |
+| http://www.calltoidea.com            | Calltoidea                                 |
 
 ## Arquitetura de Informação, Fluxogramas e SiteMaps
 
-* Google Draw - https://docs.google.com/drawings/
-* Draw.io - https://www.draw.io/
-* Illustrator CC - http://www.adobe.com/br/products/illustrator.html
-* Gliffy - https://www.gliffy.com/
-* Axure - http://www.axure.com/
+Ferramentas para Arquitetura da Informação, Fluxogramas e SiteMaps.
+
+| Link                                 | Descrição                                  |
+|--------------------------------------|--------------------------------------------|
+| https://docs.google.com/drawings     | Google Draw                                |
+| https://www.draw.io                  | Draw.io                                    |
+| https://www.gliffy.com               | Gliffy                                     |
+| http://www.axure.com                 | Axure                                      |
 
 ## Wireframes e Prototipação
 
-* Axure - http://www.axure.com/
-* QuirkTools - http://quirktools.com/wires/p0njrs/
-* Pixate - http://www.pixate.com/
-* Fireworks - http://www.adobe.com/br/products/fireworks.html
-* Sketch V3 - https://designcode.io/sketch
-* Invision (Prototipação colaborativa) - http://www.invisionapp.com/
-* Adobe Experience Design (Preview) - http://www.adobe.com/jp/products/experience-design.html
-* Balsamiq - https://balsamiq.com/
+Ferramentas para Wireframes e Prototipação.
 
-## Design
-
-* Photoshop - http://www.adobe.com/br/products/photoshop.html
-* Fireworks - http://www.adobe.com/br/products/fireworks.html
-* Illustrator CC - http://www.adobe.com/br/products/illustrator.html
-* Experience Design CC - http://www.adobe.com/products/experience-design.html
-* Front-End Linux - http://blog.da2k.com.br/2015/01/15/como-ser-um-dev-frontend-usando-linux/
+| Link                                 | Descrição                                  |
+|--------------------------------------|--------------------------------------------|
+| http://www.axure.com                 | Axure                                      |
+| http://quirktools.com/wires/p0njrs   | QuirkTools                                 |
+| http://www.pixate.com                | Pixate                                     |
+| http://www.invisionapp.com           | Invision                                   |
+| https://goo.gl/wt3fhD                | Adobe XD                                   |
+| https://balsamiq.com                 | Balsamiq                                   |
 
 ## Codificação
 
-* SublimeText - https://www.sublimetext.com/
-* Dreamweaver - http://www.adobe.com/br/products/dreamweaver.html
-* Visual Studio - https://code.visualstudio.com/
-* Brackets - http://brackets.io/
-* Wakatime - https://wakatime.com/
-* Atom - https://atom.io/
+Ferramentas para Codificação.
+
+| Link                                 | Descrição                                  |
+|--------------------------------------|--------------------------------------------|
+| https://www.sublimetext.com          | SublimeText                                |
+| https://code.visualstudio.com        | Visual Studio Code                         |
+| http://brackets.io                   | Brackets                                   |
+| https://wakatime.com                 | Wakatime - Tempo de Coding                 |
+| https://atom.io                      | Atom                                       |
+
+---
 
 ## Codificação online
 * Tutorials Point - http://www.tutorialspoint.com/codingground.htm
@@ -417,6 +424,8 @@ Alguns podcasts que recomendamos.
 * TinyPNG - https://tinypng.com/
 * PNGQuant - https://pngquant.org/
 * Plugin Photoshop PNGQuant - http://www.fnordware.com/superpng/
+
+---
 
 ## UX / UI
 
