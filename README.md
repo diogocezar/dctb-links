@@ -1,93 +1,71 @@
-# Meus Links
+# My Links
 
-Neste repositório estão os links interessantes de idéias, componentes e ferramentas para o desenvolvimento web.
+Olá pessoas, neste repositório estão organizados os principais links para vários serviços, componenetes e ferramentas relacionadas ao desenvolvimento web.
 
-## Imagens
+Segue um índice para navegação.
 
-* http://gratisography.com <- cool images
-* http://visualhunt.com/
-* https://www.pexels.com/
-* http://epicantus.tumblr.com/
-* http://kaboompics.com/
-* http://mmtstock.com/
-* https://stock.tookapic.com/photos?filter=free
-* http://jaymantri.com/
-* http://snapwiresnaps.tumblr.com/
-* http://freestocks.org/
-* http://getrefe.tumblr.com/
-* http://nos.twnsnd.co/
-* http://www.imcreator.com/free
-* https://picjumbo.com/
-* http://superfamous.com/
-* http://deathtothestockphoto.com/
-* http://www.lifeofpix.com/
-* http://littlevisuals.co/
-* http://www.splitshire.com/
-* http://negativespace.co/
-* http://www.gratisography.com/
-* https://unsplash.com/
-* https://stocksnap.io/
-* http://jeshoots.com/
-* http://pixabay.com/
-* http://cupcake.nilssonlee.se/
-* http://www.uhdwallpapers.org/
-* http://kaboompics.com/
-* http://foodiesfeed.com/
-* http://www.raumrot.com/10/
-* http://jaymantri.com/
+## Índice
 
-## Tutoriais / Cursos
+1. [Bancos de Imagens](#bancos-de-imagens)
+2. [Tutoriais e Cursos](#tutoriais-e-cursos)
+3. [Downloads e Inspirações](#downloads-e-inspiracoes)
 
-### Hugo Vasconcelos
-* https://www.youtube.com/user/tutoriais01 
 
-#### Brainstorm Tutoriais - Edição de Vídeo
-* https://www.youtube.com/channel/UCi07FKoTSmfT32xynSriT5w
+## Bancos de Imagens
 
-### DD TUTORIAIS
-* https://www.youtube.com/channel/UC9xBCxrM6qLuJYJX18LGRBw
+Na tabela a seguir estão alguns bancos de imagens que podem ser utilizadas para compor um layout web.
 
-### Clube do Design
-* https://www.youtube.com/channel/UC6CXMJjB30e0UlFo082IFVA
+A idéia foi reunir links de bancos de imagens com distribuiçào gratúita.
 
-### RBtecheu to
-* https://www.youtube.com/channel/UCVEa_x1n5FwWrxH00MrDPzQ
+| Link                                 | Descrição                                  |
+|--------------------------------------|--------------------------------------------|
+| http://gratisography.com :fire:      | Banco de imagens gratúitas e hipsters      |
+| http://visualhunt.com/               | Banco de imagens                           |
+| https://www.pexels.com/              | Banco de fotografias grátis                |
+| http://epicantus.tumblr.com/         | Tumblr com fotos grátis e originais        |
+| http://kaboompics.com/               | Banco de imagens                           |
+| http://mmtstock.com/                 | Banco de imagens grátis para uso comercial |
+| https://goo.gl/v42k13                | Banco de imagens grátis                    |
+| http://jaymantri.com/                | Banco de imagens grátis                    |
+| http://snapwiresnaps.tumblr.com/     | Thumblr com imagens gratúitas              |
+| http://freestocks.org/               | Banco de imagens grátis                    |
+| http://getrefe.tumblr.com/           | Thumblr com imagens gratúitas              |
+| http://nos.twnsnd.co/                | Banco de imagens vintage                   |
+| http://www.imcreator.com/free        | Banco de imagens grátis                    |
+| https://picjumbo.com/                | Imagens grátis enviadas por email          |
+| http://deathtothestockphoto.com/     | Imagens grátis enviadas por email          |
+| http://www.lifeofpix.com/            | Imagens grátis em alta resolução           |
+| http://littlevisuals.co/             | 7 imagens em alta resolução em seu email   |
+| http://www.splitshire.com/           | Banco de imagens e videos em alta grátis   |
+| http://negativespace.co/             | Banco de imagens alta resolução grátis     |
+| https://unsplash.com/                | Bonitas fotos gratúitas                    |
+| https://stocksnap.io/                | Bonitas fotos gratúitas                    |
+| http://jeshoots.com/                 | Banco de imagens gratúitas                 |
+| http://pixabay.com/                  | Banco de imagens gratúitas                 |
+| http://cupcake.nilssonlee.se/ :fire: | Banco de imagens gratúitas e hipsters      |
+| http://www.uhdwallpapers.org/        | Banco de wallpappers gratúitas em HD       |
+| http://foodiesfeed.com/              | Banco de imagens de comidas gratúitas      |
+| http://www.raumrot.com/10/           | Lista com bancos de imagens                |
 
-### Media Certa
-* https://www.facebook.com/mediacerta/?fref=ts
+## Tutoriais e Cursos
 
-### HxTutors
-* https://www.youtube.com/user/newwebmasterbruno
+Seguem alguns links para canais, tutoriais e cursos para diversas áreas.
 
-### Andrei Oprinca
-* https://www.youtube.com/user/diphax
-
-### PSD Box
-* https://www.youtube.com/user/eldelphotoshop
-
-### Photoshop Tutorials by PHLEARN
-* https://www.youtube.com/user/PhlearnLLC
-
-### Walter Mattos
-* https://www.youtube.com/channel/UCWhgYAMKQe174JTNXnIXnBQ
-
-### Amarelo Criativo
-* https://www.youtube.com/channel/UC36I3VDGkyrgFTjj4mgbGEg
-
-### Magrelo
-* https://www.youtube.com/user/vlogdomagrelo
-
-### CreativeStation
-* https://www.youtube.com/channel/UCopU6KXnK517ycc4tZyzm-g
-
-### Show me the code ( Curso de Markdown )
-* https://markdown.showmethecode.com.br/
-
-### Cursos pagos
-* http://www.lucianoaugusto.com.br/
-* http://vaonline.com.br/
-* http://vac4d.com.br/
-* https://obsproject.com/
+| Link                                 | Descrição                                  |
+|--------------------------------------|--------------------------------------------|
+| https://goo.gl/ZsM75o                | Hugo Vasconcelos - Tutoriais em Geral      |
+| https://goo.gl/qbuc5b                | Brainstorm Tutoriais - Edição de Vídeo     |
+| https://goo.gl/yKLY91                | DD Tutoriais                               |
+| https://goo.gl/2QUQPj                | Clube do Design                            |
+| https://goo.gl/vxCGwi                | RBTech                                     |
+| https://goo.gl/pyaLCv                | HXTutors                                   |
+| https://goo.gl/hWENVa                | PSD Box                                    |
+| https://goo.gl/hvXqmN                | PHLearn - Photoshop Tutorials              |
+| https://goo.gl/eV1emN                | Walter Mattos - Design                     |
+| https://goo.gl/p4KSxp                | Amarelo Criativo                           |
+| https://goo.gl/XAYKmK                | Magrelo                                    |
+| https://goo.gl/oJVvE2                | CreativeStation                            |
+| https://goo.gl/Fh25bW                | Curso de Markdown - Show me The Code       |
 
 ## Downloads Inspirações
 
@@ -217,7 +195,7 @@ Neste repositório estão os links interessantes de idéias, componentes e ferra
 
 * https://github.com/MuvucaGames/Tutoriais/wiki/%5BWIP%5D-Tutorial-completo-sobre-versionamento-com-GIT
 * https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/
-* https://www.udemy.com/git-e-github-para-iniciantes/  
+* https://www.udemy.com/git-e-github-para-iniciantes/
 
 ## HTML / Templates
 
