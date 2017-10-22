@@ -9,7 +9,9 @@ Segue um índice para navegação.
 1. [Bancos de Imagens](#bancos-de-imagens)
 2. [Tutoriais e Cursos](#tutoriais-e-cursos)
 3. [Downloads e Inspirações](#downloads-e-inspiracoes)
-
+4. [Ferramentas e Tecnologia](#ferramentas-e-tecnologia)
+	1. [JavaScript](#javascript)
+	2. [JQuery & Plugins & Frameworks](#jquery-plugins-frameworks)
 
 ## Bancos de Imagens
 
@@ -67,93 +69,94 @@ Seguem alguns links para canais, tutoriais e cursos para diversas áreas.
 | https://goo.gl/oJVvE2                | CreativeStation                            |
 | https://goo.gl/Fh25bW                | Curso de Markdown - Show me The Code       |
 
-## Downloads Inspirações
+## Downloads e Inspirações
 
-* https://mega.nz/#F!uZZ12I7Z!g9TtOZrFAy5pZ_z6Mzlt1Q!qNxn0DiQ [9gb de mockup]
-* http://www.designerd.com.br/category/free/ [uteis free]
-* http://www.des1gnon.com/2014/02/50-recursos-de-referencias-essenciais-para-designers/ [50 Recursos de Referências]
-* http://waltermattos.com/biblioteca/ [recomendação de livros]
-* http://www.brunoavila.com.br/avante/livros/31-livros-em-pdf-sobre-design-publicidade-e-comunicao.html [livros diversos design]
-* https://www.dropbox.com/sh/v2ibk14kj67odkc/AAA_eNRU0pRVhLpdOc_EZ_cHa?dl=0 [livros design]
-* https://soundcloud.com/aparelhoeletrico [podcast - freelancers]
-* http://www.neowin.net/news/psd-codec-1610 [exibir miniaturas dos arquivos em psd]
-* http://www.ampsoft.net/utilities/FontViewer.php [visualizador de fontes]
-* http://designrfix.com/freebies/vector-backgrounds [500 backgrounds]
-* http://www.tutoriaisphotoshop.net/2016/09/download-mega-pack-com-2000-gradientes.html?m=1 [2.000 gradientes]
-* https://www.sysoeducation.com.br/artigo/download-120-000-shapes-para-photoshop [120 mil shapes]
-* http://www.photoshopstar.com/resources/photoshop-patterns-collection/ [+2000 padrões para photoshop]
-* http://www.deviantart.com/browse/all/?section=&global=1&q=pack+texture&offset=59 [packs texturas]
+Seguem alguns links com downloads e inspirações para o desenvolvimento web.
 
-## Codrops
+| Link                                 | Descrição                                  |
+|--------------------------------------|--------------------------------------------|
+| https://goo.gl/URA4hK                | Mais de 9GB de Mockups e PSDs              |
+| http://tympanus.net/codrops/ :fire:  | Exemplos em CSS para inspirar              |
+| https://codyhouse.co/library/        | Coleção de Bibliotecas CSS e JavaScript    |
+| https://goo.gl/PWTKPA                | Ferramentas gratúitas para criativos       |
+| https://goo.gl/XYjpVA                | 50 Recursos de referências para designers  |
+| http://waltermattos.com/biblioteca/  | Recomendações de livros                    |
+| https://resourcecards.com/           | Recursos variados: Fotos, Icones, Fontes...|
+| https://goo.gl/BMwpaZ                | Livros sobre Design                        |
+| https://goo.gl/rvbDKk                | 500 Backgrounds                            |
+| https://goo.gl/Vsahxr                | Vários Gradientes                          |
+| https://goo.gl/8rgPhp                | Paterns para Photoshop                     |
+| https://goo.gl/8rgPhp                | Paterns para Photoshop                     |
 
-* http://tympanus.net/codrops/ - Coleção de Bibliotecas CSS + JavaScript;
-* https://codyhouse.co/library/ - Coleção de Bibliotecas CSS + JavaScript;
+## Ferramentas e Tecnologias
 
-## Background Patterns Svg
+Seguem alguns links com ferramentas e tecnologias para o desenvolvimento web.
 
-* http://www.heropatterns.com/
+| Link                                 | Descrição                                  |
+|--------------------------------------|--------------------------------------------|
+| http://www.heropatterns.com/         | Background Patterns Svg                    |
+| https://goo.gl/2QLeSw :fire:         | Curso sobre Docker                         |
 
-## Docker
+### JavaScript
 
-* https://www.youtube.com/watch?v=a0ts9vhaY0w - Curso sobre docker
+Alguns links relacionados a tecnologia JavaScript.
 
-## Vagrant
+| Link                                 | Descrição                                  |
+|--------------------------------------|--------------------------------------------|
+| https://goo.gl/J8eCrL                | Novidades no ECS6                          |
+| https://goo.gl/E24vEi                | Validação de Cartão de Crédito             |
+| https://goo.gl/JyEEiB                | Programação JavaScript Funcional           |
+| http://umbrellajs.com                | Alternativa ao JQuery                      |
+| https://goo.gl/UWZfN5                | ECS6                                       |
+| https://goo.gl/J4EY45                | V8                                         |
+| https://goo.gl/sgxo5M                | Notificações em JavaScript                 |
+| http://fullcalendar.io               | Calendário em JavaScript                   |
+| http://leafletjs.com                 | Manipulação de Mapas                       |
+| http://jvectormap.com                | Criação de Mapas                           |
+| https://goo.gl/rCRA1Q                | Alerta em JavaScript                       |
+| https://goo.gl/GGAtRw                | Alerta em JavaScript                       |
+| https://goo.gl/tyrxtz                | Alerta em JavaScript                       |
+| https://codemirror.net               | Editor de Texto em JavaScript              |
+| https://goo.gl/aEySJP                | JavaScript Hacks                           |
+| https://goo.gl/pA9F3k                | Animação de Elementos                      |
+| http://jstherightway.org             | JavaScript da Forma Correta                |
+| http://nipher.io/ES6-arrow-functions | Arrow Functions ES6                        |
+| https://goo.gl/bCSUfE                | Map Reduce                                 |
+| https://goo.gl/8kfQNG                | O que TODO dev JavaScript precisa saber    |
+| http://www.dropzonejs.com            | Drag and Drop Upload                       |
+| http://flipclockjs.com               | Relógio Flip                               |
 
-* https://scotch.io/tutorials/how-to-create-a-vagrant-base-box-from-an-existing-one
+### JQuery & Plugins & Frameworks
 
-## Resouce Cards
+Links para plugins JQuery e Frameworks JavaScript.
 
-* https://resourcecards.com/ - Coleção de Recursos Variados;
+| Link                                 | Descrição                                  |
+|--------------------------------------|--------------------------------------------|
+| https://goo.gl/Yue6mN                | Loading de imagens com porcentagem         |
+| https://goo.gl/BYiytX                | Typed.js - Efeito de escrita               |
+| https://goo.gl/jAsrCb                | Howler - Biblioteca de Sons                |
+| https://goo.gl/WuDCxf                | Contagem regressiva                        |
+| http://underscorejs.org              | Biblioteca JavaScript                      |
+| http://masonry.desandro.com          | Layout em grid dinâmico                    |
+| http://isotope.metafizzy.co          | Filtros e ordenação em layouts             |
+| http://flickity.metafizzy.co         | Carrosel touch e responsivo                |
+| https://goo.gl/pbrusQ :fire:         | Carrosel Owl                               |
+| https://goo.gl/3u26UD                | Vivus - Animações SVG com JS               |
+| http://t4t5.github.io/sweetalert     | Alert com JavaScript                       |
+| http://slippry.com                   | Slider com JavaScript                      |
+| https://goo.gl/oKdhkx                | TimeSheet.js - Timeline                    |
+| https://goo.gl/VpyPEY                | Dropdown personalizado                     |
+| https://select2.org/                 | Dropdown personalizado                     |
+| https://goo.gl/vvb6n3                | Cropper para imagens                       |
+| http://icheck.fronteed.com           | Personalizar checkbox e radio              |
+| https://goo.gl/7CvT8y                | Switch com visual IOS                      |
+| https://jqueryvalidation.org         | Validação com JQuery                       |
+| https://goo.gl/hnShT6                | Background em sites                        |
+| https://goo.gl/wJoCnT                | CEP via JQuery                             |
+| https://goo.gl/3KETmG                | CEP via JQuery                             |
+| https://goo.gl/knWgW3                | Lazy Load Images                           |
 
-## JQuery / Plugins / Frameworks
-
-* http://gaya.github.io/scripts/queryLoader2/ - Loading de imagens com porcentagem;
-* http://www.mattboldt.com/demos/typed-js/ - Efeito de escrita;
-* https://github.com/goldfire/howler.js - Biblioteca de Sons;
-* http://hilios.github.io/jQuery.countdown/ - Countdown;
-* http://underscorejs.org/ - JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects;
-* http://masonry.desandro.com/ - Masonry is a JavaScript grid layout library;
-* http://isotope.metafizzy.co/ - Filter & sort magical layouts;
-* http://flickity.metafizzy.co/ - Touch, Responsible Carrosel;
-* https://github.com/maxwellito/vivus#vivusjs - Vivus is a lightweight JavaScript class (with no dependencies) that allows you to animate SVGs;
-* http://t4t5.github.io/sweetalert/ - A BEAUTIFUL REPLACEMENT FOR JAVASCRIPT'S "ALERT";
-* http://slippry.com/ - Slider;
-* https://sbstjn.github.io/timesheet.js/ - Vizualiação em TimeLine;
-* http://designwithpc.com/Plugins/ddSlick#demo - Slick;
-* https://github.com/fengyuanchen/cropper - Cropper para imagens;
-* http://icheck.fronteed.com/ - Personalizar checkbox e radio;
-* http://abpetkov.github.io/switchery/ - Switch com visual IOS;
-* https://jqueryvalidation.org/ - Validação com JQuery;
-* http://srobbin.com/jquery-plugins/backstretch/ - Background em sites;
-* http://viacep.com.br/exemplo/jquery/ - CEP via JQuery;
-* http://giovanneafonso.github.io/jquery.cep/ - CEP via JQuery;
-* http://www.appelsiini.net/projects/lazyload - Lazy Load Images;
-
-## JavaScript
-
-* http://blog.justdigital.com.br/o-que-muda-no-javascript-com-o-ecmascript-6 - Novidades no ECS6;
-* https://contaazul.github.io/creditcard.js/ - Validação de Cartão de Crédito;
-* https://medium.com/@matheusml/entendendo-programa%C3%A7%C3%A3o-funcional-em-javascript-de-uma-vez-c676489be08b#.duc4g838f - Programação JavaScript Funcinal;
-* http://umbrellajs.com/ - Alternativa ao JQuery;
-* http://nodedecode.com.br/javascript-ecmascript-6/ - ECS6;
-* http://tableless.com.br/mais-valvulas-para-seu-javascript/ - V8;
-* https://github.com/willianjusten/screamer-js - Notificações;
-* http://fullcalendar.io/ - Calendário;
-* http://umbrellajs.com/ - DOM manipulation;
-* http://leafletjs.com/ - Manipulação de mapas;
-* http://jvectormap.com/ - Criar mapas;
-* http://github.hubspot.com/vex/docs/welcome/ - Alert em JS;
-* http://fabien-d.github.io/alertify.js/ - Alerta em JS;
-* http://limonte.github.io/sweetalert2/ - Alerta em JS;
-* https://codemirror.net/ - Timeline em site;
-* https://blog.jscrambler.com/12-extremely-useful-hacks-for-javascript/ - JavaScript Hacks;
-* http://www.gravmatt.com/force-js/ - Animação de Elementos;
-* http://jstherightway.org/ - JavaScript The Right Way;
-* http://nipher.io/ES6-arrow-functions - Arrow Functions ES6;
-* http://www.sitepoint.com/map-reduce-functional-javascript/ - Map Reduce;
-* https://medium.com/@matheusml/o-que-todo-desenvolvedor-javascript-precisa-saber-2cc33daedb86#.n21xlxlal - O que TODO desenvolvedor JavaScript precisa saber;
-* Drag and Drop Upload - http://www.dropzonejs.com/
-* Flipclock - http://flipclockjs.com/
+***
 
 ## Apache
 
@@ -510,4 +513,3 @@ Seguem alguns links para canais, tutoriais e cursos para diversas áreas.
 * https://hipsters.tech/
 * http://devnaestrada.com.br/
 * https://jovemnerd.com.br/playlist/nerdtech/
-
