@@ -302,6 +302,8 @@ Links sobre CSS.
 | http://lab.hakim.se/scroll-effects   | Efeitos Scroll                             |
 | http://www.jasonlusk.com/scroll      | Efeitos Scroll                             |
 | https://goo.gl/zTLuC1                | Seletores CSS4                             |
+| http://pt-br.learnlayout.com :fire:  | Aprenda Layout                             |
+
 
 ### Wordpress
 
