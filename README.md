@@ -398,6 +398,7 @@ Um apanhado de links sobre diversas tecnologias.
 | http://instacod.es                   | Imagem para códigos instagram              | Outros        |
 | http://www.z-cron.com                | Cron no Windows                            | Cron          |
 | https://goo.gl/XbQZtX                | Processo de Criação Web                    | Dev. Web      |
+| https://goo.gl/8vpWmC                | Npm Init defaults                          | NodeJS        |
 
 ## Podcasts
 
