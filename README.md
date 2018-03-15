@@ -209,6 +209,7 @@ Alguns links relacionados a tecnologia JavaScript.
 | https://goo.gl/8kfQNG                | O que TODO dev JavaScript precisa saber    |
 | http://www.dropzonejs.com            | Drag and Drop Upload                       |
 | http://flipclockjs.com               | Relógio Flip                               |
+| https://formspree.io/                | Envio de Email de Páginas Estáticas        |
 
 ### JQuery & Plugins & Frameworks
 
