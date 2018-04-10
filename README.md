@@ -268,6 +268,8 @@ Dicas e links gerais sobre HTML.
 | https://goo.gl/1QDFbq                | Logo responsiva com SVG                    |
 | https://goo.gl/BLv1gN                | Efeito Paralax                             |
 | https://goo.gl/qa1oAt                | Ícones em SVG                              |
+| https://html5up.net/                 | Templates em HTML .                        |
+
 
 ## CSS
 
