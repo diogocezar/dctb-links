@@ -152,6 +152,7 @@ Seguem alguns links para canais, tutoriais e cursos para diversas áreas.
 | https://goo.gl/XAYKmK                | Magrelo                                    |
 | https://goo.gl/oJVvE2                | CreativeStation                            |
 | https://goo.gl/Fh25bW                | Curso de Markdown - Show me The Code       |
+| https://www.thenetninja.co.uk/courses| Cursos Variádos Web                        |
 
 ## Downloads e Inspirações
 
