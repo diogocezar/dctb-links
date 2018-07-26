@@ -50,7 +50,7 @@ A idéia foi reunir links de bancos de imagens com distribuiçào gratúita.
 | http://epicantus.tumblr.com          | Tumblr com fotos grátis e originais        |
 | http://kaboompics.com                | Banco de imagens                           |
 | http://mmtstock.com                  | Banco de imagens grátis para uso comercial |
-| https://goo.gl/v42k13                | Banco de imagens grátis                    |
+| http://bit.ly/2OktBT3                | Banco de imagens grátis                    |
 | http://jaymantri.com                 | Banco de imagens grátis                    |
 | http://snapwiresnaps.tumblr.com      | Thumblr com imagens gratúitas              |
 | http://freestocks.org                | Banco de imagens grátis                    |
@@ -74,7 +74,6 @@ A idéia foi reunir links de bancos de imagens com distribuiçào gratúita.
 | http://graphicburger.com             | Vetores, mock-ups, icons e etc             |
 | http://instantlogosearch.com         | Grande acervo de logos                     |
 | http://www.brusheezy.com             | Arquivos em psd, brushes e actions free    |
-| https://goo.gl/1QGDKJ                | Paleta de Cores                            |
 | http://freepsds.org                  | Arquivos em PSD                            |
 | http://pt.365psd.com                 | Arquivos em PSD                            |
 | http://www.pixeden.com               | Arquivos em PSD                            |
@@ -139,20 +138,18 @@ Seguem alguns links para canais, tutoriais e cursos para diversas áreas.
 
 | Link                                 | Descrição                                  |
 |--------------------------------------|--------------------------------------------|
-| https://goo.gl/ZsM75o                | Hugo Vasconcelos - Tutoriais em Geral      |
-| https://goo.gl/qbuc5b                | Brainstorm Tutoriais - Edição de Vídeo     |
-| https://goo.gl/yKLY91                | DD Tutoriais                               |
-| https://goo.gl/2QUQPj                | Clube do Design                            |
-| https://goo.gl/vxCGwi                | RBTech                                     |
-| https://goo.gl/pyaLCv                | HXTutors                                   |
-| https://goo.gl/hWENVa                | PSD Box                                    |
-| https://goo.gl/hvXqmN                | PHLearn - Photoshop Tutorials              |
-| https://goo.gl/eV1emN                | Walter Mattos - Design                     |
-| https://goo.gl/p4KSxp                | Amarelo Criativo                           |
-| https://goo.gl/XAYKmK                | Magrelo                                    |
-| https://goo.gl/oJVvE2                | CreativeStation                            |
-| https://goo.gl/Fh25bW                | Curso de Markdown - Show me The Code       |
-| https://www.thenetninja.co.uk/courses| Cursos Variádos Web                        |
+| http://bit.ly/2uQZo66                | Hugo Vasconcelos - Tutoriais em Geral      |
+| http://bit.ly/2NO0pmm                | Brainstorm Tutoriais - Edição de Vídeo     |
+| http://bit.ly/2LtBbNu                | DD Tutoriais                               |
+| http://bit.ly/2OkGJYw                | Clube do Design                            |
+| http://bit.ly/2NKSMx6                | RBTech                                     |
+| http://bit.ly/2AeYYvs                | HXTutors                                   |
+| http://bit.ly/2JYBvya                | PSD Box                                    |
+| http://bit.ly/2JXY4TJ                | PHLearn - Photoshop Tutorials              |
+| http://bit.ly/2Ad8oYx                | Walter Mattos - Design                     |
+| http://bit.ly/2vbDMAC                | Amarelo Criativo                           |
+| http://bit.ly/2LDhzWy                | CreativeStation                            |
+| http://bit.ly/2mKpLpZ                | Cursos Variádos Web                        |
 
 ## Downloads e Inspirações
 
