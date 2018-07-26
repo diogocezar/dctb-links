@@ -404,6 +404,7 @@ Um apanhado de links sobre diversas tecnologias.
 | https://goo.gl/XbQZtX                | Processo de Criação Web                    | Dev. Web      |
 | https://goo.gl/8vpWmC                | Npm Init defaults                          | NodeJS        |
 | http://bit.ly/2GoEO0t                | MSG de Inicializaço do Terminal            | Terminal      |
+| https://carbon.now.sh/               | Para compartilhar códigos elegantes        | Outros        |
 
 ## Podcasts
 
