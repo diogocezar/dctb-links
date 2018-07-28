@@ -157,18 +157,18 @@ Seguem alguns links com downloads e inspirações para o desenvolvimento web.
 
 | Link                                 | Descrição                                  |
 |--------------------------------------|--------------------------------------------|
-| https://goo.gl/URA4hK                | Mais de 9GB de Mockups e PSDs              |
+| http://bit.ly/2mPvWca                | Mais de 9GB de Mockups e PSDs              |
 | http://tympanus.net/codrops/ :fire:  | Exemplos em CSS para inspirar              |
 | https://codyhouse.co/library/        | Coleção de Bibliotecas CSS e JavaScript    |
-| https://goo.gl/PWTKPA                | Ferramentas gratúitas para criativos       |
-| https://goo.gl/XYjpVA                | 50 Recursos de referências para designers  |
+| http://bit.ly/2uUV7P6                | Ferramentas gratúitas para criativos       |
+| http://bit.ly/2AhmJ65                | 50 Recursos de referências para designers  |
 | http://waltermattos.com/biblioteca/  | Recomendações de livros                    |
 | https://resourcecards.com/           | Recursos variados: Fotos, Icones, Fontes...|
-| https://goo.gl/BMwpaZ                | Livros sobre Design                        |
-| https://goo.gl/rvbDKk                | 500 Backgrounds                            |
-| https://goo.gl/Vsahxr                | Vários Gradientes                          |
-| https://goo.gl/8rgPhp                | Paterns para Photoshop                     |
-| https://goo.gl/8rgPhp                | Paterns para Photoshop                     |
+| http://bit.ly/2LuO0ad                | Livros sobre Design                        |
+| http://bit.ly/2vcz8ma                | 500 Backgrounds                            |
+| http://bit.ly/2LVxXhQ                | Vários Gradientes                          |
+| http://bit.ly/2Lxi598                | Paterns para Photoshop                     |
+| http://bit.ly/2Lxi598                | Paterns para Photoshop                     |
 
 ## Ferramentas e Tecnologias
 
@@ -177,7 +177,7 @@ Seguem alguns links com ferramentas e tecnologias para o desenvolvimento web.
 | Link                                 | Descrição                                  |
 |--------------------------------------|--------------------------------------------|
 | http://www.heropatterns.com/         | Background Patterns Svg                    |
-| https://goo.gl/2QLeSw :fire:         | Curso sobre Docker                         |
+| http://bit.ly/2AizJbB :fire:         | Curso sobre Docker                         |
 
 ### JavaScript
 
@@ -185,26 +185,22 @@ Alguns links relacionados a tecnologia JavaScript.
 
 | Link                                 | Descrição                                  |
 |--------------------------------------|--------------------------------------------|
-| https://goo.gl/J8eCrL                | Novidades no ECS6                          |
-| https://goo.gl/E24vEi                | Validação de Cartão de Crédito             |
-| https://goo.gl/JyEEiB                | Programação JavaScript Funcional           |
+| http://bit.ly/2LLirsi                | Novidades no ECS6                          |
+| http://bit.ly/2vfBmRy                | Validação de Cartão de Crédito             |
+| http://bit.ly/2vad7Ez                | Programação JavaScript Funcional           |
 | http://umbrellajs.com                | Alternativa ao JQuery                      |
-| https://goo.gl/UWZfN5                | ECS6                                       |
-| https://goo.gl/J4EY45                | V8                                         |
-| https://goo.gl/sgxo5M                | Notificações em JavaScript                 |
+| http://bit.ly/2Ly0RIY                | Notificações em JavaScript                 |
 | http://fullcalendar.io               | Calendário em JavaScript                   |
 | http://leafletjs.com                 | Manipulação de Mapas                       |
 | http://jvectormap.com                | Criação de Mapas                           |
-| https://goo.gl/rCRA1Q                | Alerta em JavaScript                       |
-| https://goo.gl/GGAtRw                | Alerta em JavaScript                       |
-| https://goo.gl/tyrxtz                | Alerta em JavaScript                       |
+| http://bit.ly/2OnODQX                | Alerta em JavaScript                       |
+| http://bit.ly/2uUbMlO                | Alerta em JavaScript                       |
 | https://codemirror.net               | Editor de Texto em JavaScript              |
-| https://goo.gl/aEySJP                | JavaScript Hacks                           |
-| https://goo.gl/pA9F3k                | Animação de Elementos                      |
+| http://bit.ly/2AfHdvX                | JavaScript Hacks                           |
 | http://jstherightway.org             | JavaScript da Forma Correta                |
 | http://nipher.io/ES6-arrow-functions | Arrow Functions ES6                        |
-| https://goo.gl/bCSUfE                | Map Reduce                                 |
-| https://goo.gl/8kfQNG                | O que TODO dev JavaScript precisa saber    |
+| http://bit.ly/2AkP5fO                | Map Reduce                                 |
+| http://bit.ly/2LUa0rf                | O que TODO dev JavaScript precisa saber    |
 | http://www.dropzonejs.com            | Drag and Drop Upload                       |
 | http://flipclockjs.com               | Relógio Flip                               |
 | https://formspree.io/                | Envio de Email de Páginas Estáticas        |
@@ -215,29 +211,28 @@ Links para plugins JQuery e Frameworks JavaScript.
 
 | Link                                 | Descrição                                  |
 |--------------------------------------|--------------------------------------------|
-| https://goo.gl/Yue6mN                | Loading de imagens com porcentagem         |
-| https://goo.gl/BYiytX                | Typed.js - Efeito de escrita               |
-| https://goo.gl/jAsrCb                | Howler - Biblioteca de Sons                |
-| https://goo.gl/WuDCxf                | Contagem regressiva                        |
+| http://bit.ly/2K2ApBJ                | Loading de imagens com porcentagem         |
+| http://bit.ly/2OoeoQY                | Typed.js - Efeito de escrita               |
+| http://bit.ly/2OqmEjt                | Howler - Biblioteca de Sons                |
+| http://bit.ly/2K2Cuxx                | Contagem regressiva                        |
 | http://underscorejs.org              | Biblioteca JavaScript                      |
 | http://masonry.desandro.com          | Layout em grid dinâmico                    |
 | http://isotope.metafizzy.co          | Filtros e ordenação em layouts             |
 | http://flickity.metafizzy.co         | Carrosel touch e responsivo                |
-| https://goo.gl/pbrusQ :fire:         | Carrosel Owl                               |
-| https://goo.gl/3u26UD                | Vivus - Animações SVG com JS               |
+| http://bit.ly/2NR5ydn :fire:         | Carrosel Owl                               |
+| http://bit.ly/2NSfrI0                | Vivus - Animações SVG com JS               |
 | http://t4t5.github.io/sweetalert     | Alert com JavaScript                       |
 | http://slippry.com                   | Slider com JavaScript                      |
-| https://goo.gl/oKdhkx                | TimeSheet.js - Timeline                    |
-| https://goo.gl/VpyPEY                | Dropdown personalizado                     |
+| http://bit.ly/2LX0aoL                | TimeSheet.js - Timeline                    |
+| http://bit.ly/2LICzv7                | Dropdown personalizado                     |
 | https://select2.org/                 | Dropdown personalizado                     |
-| https://goo.gl/vvb6n3                | Cropper para imagens                       |
+| http://bit.ly/2Oo2mY0                | Cropper para imagens                       |
 | http://icheck.fronteed.com           | Personalizar checkbox e radio              |
-| https://goo.gl/7CvT8y                | Switch com visual IOS                      |
+| http://bit.ly/2mOQiCo                | Switch com visual IOS                      |
 | https://jqueryvalidation.org         | Validação com JQuery                       |
-| https://goo.gl/hnShT6                | Background em sites                        |
-| https://goo.gl/wJoCnT                | CEP via JQuery                             |
-| https://goo.gl/3KETmG                | CEP via JQuery                             |
-| https://goo.gl/knWgW3                | Lazy Load Images                           |
+| http://bit.ly/2LK2QJn                | Background em sites                        |
+| http://bit.ly/2NNFHTN                | CEP via JQuery                             |
+| http://bit.ly/2Ai2qoZ                | Lazy Load Images                           |
 
 ### HTML
 
