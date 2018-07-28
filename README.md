@@ -240,27 +240,25 @@ Dicas e links gerais sobre HTML.
 
 | Link                                 | Descrição                                  |
 |--------------------------------------|--------------------------------------------|
-| https://goo.gl/CpLsMP                | Legendas em vídeos no HTML                 |
-| https://goo.gl/p9nV67                | Template Admin                             |
-| https://goo.gl/t9LvtV                | Cheat Sheets for Frontend Developers       |
+| http://bit.ly/2K2PFOX                | Legendas em vídeos no HTML                 |
+| http://bit.ly/2OrMtQ2                | Cheat Sheets for Frontend Developers       |
 | https://getmdl.io/                   | Material Design Lite                       |
-| https://goo.gl/BBYhbD                | Desenhar com SVG                           |
-| https://goo.gl/j2fj5V                | Vídeos como Background                     |
-| https://goo.gl/eRkoJ5                | Manipulando SVG com JavaScript             |
-| https://goo.gl/t36DFf                | Experiências com SVG                       |
-| https://goo.gl/1nQJxQ                | SVG com Smil                               |
-| https://goo.gl/2jY3yh                | Seções Full Screen                         |
-| https://goo.gl/fKMQCG                | Usando SVG Sprites                         |
-| https://goo.gl/BchQX9                | Upload de arquivos em HTML5                |
-| https://goo.gl/8fkFt9                | Vetor com SVG                              |
-| https://goo.gl/sijg7E                | Animação SVG                               |
+| http://bit.ly/2vbCGVO                | Desenhar com SVG                           |
+| http://bit.ly/2vcowDB                | Vídeos como Background                     |
+| http://bit.ly/2LXwoA8                | Manipulando SVG com JavaScript             |
+| http://bit.ly/2GtUZ0U                | Experiências com SVG                       |
+| http://bit.ly/2LxY5TV                | SVG com Smil                               |
+| http://bit.ly/2Lzh292                | Seções Full Screen                         |
+| http://bit.ly/2NSKmE9                | Usando SVG Sprites                         |
+| http://bit.ly/2Ag5xxI                | Upload de arquivos em HTML5                |
+| http://bit.ly/2Okaitj                | Vetor com SVG                              |
+| http://bit.ly/2OoE00g                | Animação SVG                               |
 | https://gooo.gl/krBbb6               | Header animado on Scroll                   |
 | https://www.tinymce.com              | Editor de Textos Web                       |
-| https://goo.gl/z8gdE4                | TimeLine                                   |
-| https://goo.gl/CMCzQ5                | Separadores com HTML                       |
-| https://goo.gl/1QDFbq                | Logo responsiva com SVG                    |
-| https://goo.gl/BLv1gN                | Efeito Paralax                             |
-| https://goo.gl/qa1oAt                | Ícones em SVG                              |
+| http://bit.ly/2K9bpc4                | TimeLine                                   |
+| http://bit.ly/2M01OFV                | Logo responsiva com SVG                    |
+| http://bit.ly/2LKzj2d                | Efeito Paralax                             |
+| http://bit.ly/2NSWgh5                | Ícones em SVG                              |
 | https://html5up.net/                 | Templates em HTML .                        |
 
 
