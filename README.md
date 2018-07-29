@@ -253,7 +253,7 @@ Dicas e links gerais sobre HTML.
 | http://bit.ly/2Ag5xxI                | Upload de arquivos em HTML5                |
 | http://bit.ly/2Okaitj                | Vetor com SVG                              |
 | http://bit.ly/2OoE00g                | Animação SVG                               |
-| https://gooo.gl/krBbb6               | Header animado on Scroll                   |
+| http://bit.ly/2uYd3sf                | Header animado on Scroll                   |
 | https://www.tinymce.com              | Editor de Textos Web                       |
 | http://bit.ly/2K9bpc4                | TimeLine                                   |
 | http://bit.ly/2M01OFV                | Logo responsiva com SVG                    |
@@ -271,31 +271,29 @@ Links sobre CSS.
 | http://expo.getbootstrap.com         | Exemplos BootStrap                         |
 | https://jonsuh.com/hamburgers        | Menus                                      |
 | http://www.voxelcss.com              | CSS e 3D                                   |
-| https://goo.gl/uCRKTB                | Flexbox                                    |
+| http://bit.ly/2mS8nje                | Flexbox                                    |
 | http://flexboxgrid.com               | Grid baseado em Flexbox                    |
-| https://goo.gl/hvpyAq                | Flexbox                                    |
-| https://goo.gl/LhKvHS                | Filtros em CSS                             |
-| https://goo.gl/RiaPzL                | Background Blur                            |
-| https://goo.gl/vx4uu7                | Seletores Importantes                      |
-| https://goo.gl/rniFHP                | Material Design + Bootstrap                |
-| https://goo.gl/uf5HFA                | Calendário em Bootstrap                    |
-| https://goo.gl/gnD6Rm                | Color picker                               |
-| https://goo.gl/yxcAMd                | Animação utilizando CSS                    |
-| https://goo.gl/rjCtN7                | Select para BootStrap                      |
-| https://goo.gl/K6V2GR                | Bootstrap 4 Cheat Sheet                    |
-| https://goo.gl/oChCY7                | Animação de Ícones                         |
-| https://goo.gl/GYWnnX                | Calc em Grids                              |
-| https://goo.gl/vcTafA                | Guia Completo Grids                        |
-| https://goo.gl/5AAhUJ                | Animações CSS                              |
-| https://goo.gl/LALpBw                | Animações CSS e JavaScript                 |
-| https://goo.gl/pPfs47                | Efeitos Houver Imanges                     |
+| http://bit.ly/2LxAeDN                | Flexbox                                    |
+| http://bit.ly/2mQwi2g                | Filtros em CSS                             |
+| http://bit.ly/2mOGWqa                | Background Blur                            |
+| http://bit.ly/2OqvlKA                | Seletores Importantes                      |
+| http://bit.ly/2LKUYHy                | Material Design + Bootstrap                |
+| http://bit.ly/2LzooJp                | Calendário em Bootstrap                    |
+| http://bit.ly/2LzSEnC                | Animação utilizando CSS                    |
+| http://bit.ly/2LZnqlZ                | Select para BootStrap                      |
+| http://bit.ly/2uYjb3w                | Bootstrap 4 Cheat Sheet                    |
+| http://bit.ly/2v0EXnb                | Animação de Ícones                         |
+| http://bit.ly/2mU2G3X                | Calc em Grids                              |
+| http://bit.ly/2OpcEXC                | Guia Completo Grids                        |
+| http://bit.ly/2mQwvm4                | Animações CSS                              |
+| http://bit.ly/2OmZpXw                | Animações CSS e JavaScript                 |
+| http://bit.ly/2uYrjAX                | Efeitos Houver Imanges                     |
 | http://shoelace.io                   | Ferramenta Visual para Bootstrap           |
 | http://cssreference.io               | Referências de Comandos em CSS             |
-| https://goo.gl/PX2hBf                | Efeito Tremendo (CSSShake)                 |
-| https://goo.gl/qhkXmd                | Efeitos CSS (WOW)                          |
+| http://bit.ly/2AkkXRG                | Efeito Tremendo (CSSShake)                 |
+| http://bit.ly/2mTpotc                | Efeitos CSS (WOW)                          |
 | http://lab.hakim.se/scroll-effects   | Efeitos Scroll                             |
 | http://www.jasonlusk.com/scroll      | Efeitos Scroll                             |
-| https://goo.gl/zTLuC1                | Seletores CSS4                             |
 | http://pt-br.learnlayout.com :fire:  | Aprenda Layout                             |
 
 
@@ -306,11 +304,11 @@ Alguns links e tecnologias sobre Wordpress.
 | Link                                 | Descrição                                  |
 |--------------------------------------|--------------------------------------------|
 | http://html5blank.com                | Um tema limpo para customização            |
-| https://goo.gl/XaP1uB                | Tema Kalium                                |
-| https://goo.gl/KGsDbG                | Tema Divi                                  |
+| http://bit.ly/2AjSHP7                | Tema Kalium                                |
+| http://bit.ly/2NOdDzu                | Tema Divi                                  |
 | https://www.advancedcustomfields.com | Plugin para customização de campos         |
-| https://goo.gl/uRzwbG                | Tutorial ACF                               |
-| https://goo.gl/tViuNa                | WooCommerce                                |
+| http://bit.ly/2mQ9AHJ                | Tutorial ACF                               |
+| http://bit.ly/2uZ2DbL                | WooCommerce                                |
 
 ### PHP
 
@@ -318,12 +316,12 @@ Alguns links sobre a linguagem de programação PHP.
 
 | Link                                 | Descrição                                  |
 |--------------------------------------|--------------------------------------------|
-| https://goo.gl/Vh1rHs                | Facebook e PHP                             |
+| http://bit.ly/2vccIl1                | Facebook e PHP                             |
 | http://reactphp.org                  | ReactPHP                                   |
 | http://socketo.me                    | Websockets com PHP                         |
 | http://www.codeigniter.com           | Framework Codeingniter para PHP            |
-| https://goo.gl/ZMfDJW                | PDF com PHP                                |
-| https://goo.gl/Tevwge                | Manipulação de Imagens                     |
+| http://bit.ly/2uZU28H                | PDF com PHP                                |
+| http://bit.ly/2vhwifu                | Manipulação de Imagens                     |
 | https://cakephp.org/                 | CakePHP                                    |
 | https://laravel.com/                 | Laravel                                    |
 
@@ -333,66 +331,60 @@ Um apanhado de links sobre diversas tecnologias.
 
 | Link                                 | Descrição                                  | Tecnologia    |
 |--------------------------------------|--------------------------------------------|---------------|
-| https://goo.gl/aLH5Ni                | Segurança no Apache                        | Apache        |
-| https://goo.gl/WfjFpt                | Apache vs. Nginx                           | Servidor Web  |
-| https://goo.gl/BWSa82                | Tutorial Básico NodeJS                     | NodeJS        |
-| https://goo.gl/BshXDm                | Socket.io & Cluster                        | NodeJS        |
-| https://goo.gl/6gfkWd                | Criando um executável com NodeJS           | NodeJS        |
-| https://goo.gl/G6jVSf                | Transformando ECS6 em ECS5                 | NodeJS        |
-| https://goo.gl/4Qc4yJ                | RSS Feed Emitter                           | NodeJS        |
+| http://bit.ly/2NQTdWO                | Segurança no Apache                        | Apache        |
+| https://do.co/2NVLYgq                | Apache vs. Nginx                           | Servidor Web  |
+| http://bit.ly/2mSTygg                | Tutorial Básico NodeJS                     | NodeJS        |
+| http://bit.ly/2vfRrHb                | Criando um executável com NodeJS           | NodeJS        |
+| http://bit.ly/2mU3bLn                | Transformando ECS6 em ECS5                 | NodeJS        |
+| http://bit.ly/2LyyCJW                | RSS Feed Emitter                           | NodeJS        |
 | http://webschool.io/bemean           | Básico do MEAN                             | MongoDB       |
-| https://goo.gl/DeybNa                | Usando JSON com MySQL                      | MySQL + JSON  |
-| https://goo.gl/m74cGQ                | Material Theme para o SublimeText          | SublimeText   |
-| https://goo.gl/SGRVKQ                | Temas e Plugins                            | SublimeText   |
+| http://bit.ly/2AhEzGf                | Usando JSON com MySQL                      | MySQL + JSON  |
+| http://bit.ly/2mNnwlE                | Material Theme para o SublimeText          | SublimeText   |
+| http://bit.ly/2K5ooLG                | Temas e Plugins                            | SublimeText   |
 | https://github.com/tonsky/FiraCode   | Fonte Para Editores de Texto               | SublimeText   |
 | https://www.web-font-generator.com   | Gerador de Fontes para CSS + HTML          | Tipografia    |
-| https://goo.gl/utD9fS                | Gerador de Fontes para CSS + HTML          | Tipografia    |
-| https://goo.gl/E3DzPw                | Butler Font                                | Tipografia    |
+| http://bit.ly/2AlL6zI                | Gerador de Fontes para CSS + HTML          | Tipografia    |
+| http://bit.ly/2Os8qyv                | Butler Font                                | Tipografia    |
 | https://onlinefontconverter.com      | Conversor de Fonte Online                  | Tipografia    |
-| https://goo.gl/6hz4Y3                | Tutorial Git                               | Git           |
-| https://goo.gl/mhk3p9                | Do clone ao Pull Request                   | Git           |
-| https://goo.gl/P23NaS                | Git e GitHub para iniciantes               | Git           |
-| https://goo.gl/2XTamd                | Básico do Branch e Merge                   | Git           |
-| https://goo.gl/JoquJr                | Instalando o Git Lab                       | Git           |
-| https://goo.gl/Ns4PYv                | Dicas para usar o GitHub                   | Git           |
-| https://goo.gl/iJTPmm                | Temas para Linux                           | Linux         |
-| https://goo.gl/WyzGNQ                | Como usar ps e kill                        | Linux         |
+| http://bit.ly/2vcehiT                | Tutorial Git                               | Git           |
+| http://bit.ly/2H2dciU                | Do clone ao Pull Request                   | Git           |
+| http://bit.ly/2NLoVVl                | Git e GitHub para iniciantes               | Git           |
+| http://bit.ly/2pYO9Gh                | Básico do Branch e Merge                   | Git           |
+| http://bit.ly/2v14vAE                | Dicas para usar o GitHub                   | Git           |
+| http://bit.ly/2mQ9rnq                | Temas para Linux                           | Linux         |
+| https://do.co/2OpKzzD                | Como usar ps e kill                        | Linux         |
 | http://imgur.com/1c9y0               | Terminal Commands                          | Linux         |
-| https://goo.gl/UmU8vN                | Ubuntu como ambiente de desenvolvimento web| Linux         |
-| https://goo.gl/bsXhzp                | Otimizando Web Apps IOS                    | Otimização    |
+| http://bit.ly/2AmsTSA                | Otimizando Web Apps IOS                    | Otimização    |
 | https://browserdiet.com/pt           | Como perder peso no browser                | Otimização    |
 | http://pastebin.com/ZA9shjxU         | Exemplo Web Database                       | Web Database  |
-| https://goo.gl/AKd7VH                | Metodologia Solo                           | Projetos      |
+| http://bit.ly/2LUTkQr                | Metodologia Solo                           | Projetos      |
 | https://www.slack.com                | Ferramenta de Couminçação                  | Projetos      |
 | https://www.rocket.chat              | Ferramenta de Couminçação                  | Projetos      |
 | https://asana.com                    | Ferramenta de Comunicação                  | Projetos      |
-| https://goo.gl/vQABGm                | Notas Fiscais                              | Notas Fiscais |
 | http://devdocs.io                    | Documentações Variadas                     | Documentação  |
-| https://goo.gl/TWdnug                | Links Interessantes                        | Links         |
+| http://bit.ly/2v04SeP                | Links Interessantes                        | Links         |
 | http://ionicframework.com            | Ionic Desenvolvimento Híbrido              | Híbridos      |
-| https://goo.gl/WPKYGy                | Vídeo Call                                 | Vídeo Call    |
-| https://goo.gl/yVpgLs                | Usabilidade -> Conversão                   | Usabilidade   |
-| https://goo.gl/nYyiSi                | Material Design para Web                   | Design        |
-| https://goo.gl/JbE3hf                | Como se tornar um desenvolvedor Front-End  | Motivação     |
-| https://goo.gl/NGP5ft                | Trezentas coisas Gratuitas para Startups   | Dica          |
-| https://goo.gl/weJQ4S                | Extensões Gratuitas para Photoshop         | Photoshop     |
+| http://bit.ly/2LK1Yog                | Vídeo Call                                 | Vídeo Call    |
+| http://bit.ly/2vgrHKD                | Usabilidade -> Conversão                   | Usabilidade   |
+| http://bit.ly/2uXEFO9                | Como se tornar um desenvolvedor Front-End  | Motivação     |
+| http://bit.ly/2mQ9waP                | Trezentas coisas Gratuitas para Startups   | Dica          |
+| http://bit.ly/2KadhRA                | Extensões Gratuitas para Photoshop         | Photoshop     |
 | https://www.mailpile.is              | Cliente de Email Local                     | Mail          |
 | http://it-ebooks-search.info         | Ebooks Gratuitos                           | Livros        |
 | http://www.allitebooks.com           | Livros de TI                               | Livros        |
 | http://libgen.io                     | Materiais Gratuitos                        | Materiais     |
-| https://goo.gl/EQHExM                | Elastic Search                             | Elastic Search|
-| https://goo.gl/52x9aY                | Hospedando seu site no GitHub              | Hospedagem    |
+| http://bit.ly/2mPSppF                | Elastic Search                             | Elastic Search|
+| http://bit.ly/2NSOX9e                | Hospedando seu site no GitHub              | Hospedagem    |
 | http://www.mettzer.com               | TCC nas normas ABNT                        | TCC           |
-| http://www.mettzer.com               | Ferramenta para importação de dados        | Importação    |
 | http://codeseven.github.io/toastr    | Toast                                      | Interface     |
 | http://www.json-generator.com        | Gerador de JSON                            | JSON          |
 | https://markdown-it.github.io        | Markdown live preview                      | Markdown      |
 | https://material.io/resizer          | Resizer do Google                          | Resizer       |
-| https://goo.gl/ea2Z2x                | Expressões Regulares                       | Exp. Regular  |
+| http://bit.ly/2Altfc7                | Expressões Regulares                       | Exp. Regular  |
 | http://instacod.es                   | Imagem para códigos instagram              | Outros        |
 | http://www.z-cron.com                | Cron no Windows                            | Cron          |
-| https://goo.gl/XbQZtX                | Processo de Criação Web                    | Dev. Web      |
-| https://goo.gl/8vpWmC                | Npm Init defaults                          | NodeJS        |
+| http://bit.ly/2Osbb38                | Processo de Criação Web                    | Dev. Web      |
+| http://bit.ly/2K5MPJ7                | Npm Init defaults                          | NodeJS        |
 | http://bit.ly/2GoEO0t                | MSG de Inicializaço do Terminal            | Terminal      |
 | https://carbon.now.sh/               | Para compartilhar códigos elegantes        | Outros        |
 
@@ -405,7 +397,7 @@ Alguns podcasts que recomendamos.
 | http://aparelhoeletrico.com/podcast  | Podcast em PT-BR                           |
 | https://hipsters.tech                | Podcast em PT-BR                           |
 | http://devnaestrada.com.br           | Podcast em PT-BR                           |
-| https://goo.gl/wXWLQ3                | Jovem Nerd Tech                            |
+| http://bit.ly/2OroK2M                | Jovem Nerd Tech                            |
 
 ## Usabilidade e Pesquisa
 
@@ -444,7 +436,7 @@ Ferramentas para Wireframes e Prototipação.
 | http://quirktools.com/wires/p0njrs   | QuirkTools                                 |
 | http://www.pixate.com                | Pixate                                     |
 | http://www.invisionapp.com           | Invision                                   |
-| https://goo.gl/wt3fhD                | Adobe XD                                   |
+| https://adobe.ly/2Aiahmx             | Adobe XD                                   |
 | https://balsamiq.com                 | Balsamiq                                   |
 
 ## Codificação
@@ -477,16 +469,13 @@ Ferramentas para SEO e Otimizações.
 
 | Link                                 | Descrição                                  |
 |--------------------------------------|--------------------------------------------|
-| https://goo.gl/QUZd34                | Google Webmaster                           |
-| https://goo.gl/9opQzY                | Google Analytics                           |
-| https://goo.gl/1B6vdg                | Good Adwords (Key Planner)                 |
-| https://goo.gl/yjbuuT                | Bing Webmaster                             |
-| https://goo.gl/yjbuuT                | Bing Webmaster                             |
-| https://goo.gl/yjbuuT                | Bing Webmaster                             |
+| http://bit.ly/2vgUjDB                | Google Webmaster                           |
+| http://bit.ly/2uYdJ0L                | Google Analytics                           |
+| http://bit.ly/2mSg2O8                | Good Adwords (Key Planner)                 |
 | https://www.woorank.com/pt           | Woorank                                    |
 | http://openlinkprofiler.org/         | OpenLinkProfiler                           |
 | https://moz.com/products/pro         | Moz                                        |
-| https://goo.gl/H1f1zH                | SEO Básico para Iniciantes                 |
+| http://bit.ly/2vh96Ov                | SEO Básico para Iniciantes                 |
 
 
 ## Compressão de Imagens
@@ -505,8 +494,7 @@ Dicas para UX e UI.
 
 | Link                                 | Descrição                                  |
 |--------------------------------------|--------------------------------------------|
-| https://goo.gl/rWE55b                | Diferença entre UX e UI                    |
-| https://goo.gl/qUd9oA                | Mito híbrido UX e UI Designer              |
+| http://bit.ly/2NUi4sQ                | Mito híbrido UX e UI Designer              |
 
 ## Transferência de Arquivo
 
