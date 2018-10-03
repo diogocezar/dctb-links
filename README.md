@@ -132,12 +132,11 @@ Opções para criação de paleta de cores;
 | http://brandcolors.net               | Cores de logos e empresas famosas          |
 | http://cymbolism.com                 | Significado das cores                      |
 
-## Tutoriais e Cursos
-
 Seguem alguns links para canais, tutoriais e cursos para diversas áreas.
 
 | Link                                 | Descrição                                  |
 |--------------------------------------|--------------------------------------------|
+| http://bit.ly/2y0kIYp  :fire:        | CollabCode - Cursos Web                    |
 | http://bit.ly/2uQZo66                | Hugo Vasconcelos - Tutoriais em Geral      |
 | http://bit.ly/2NO0pmm                | Brainstorm Tutoriais - Edição de Vídeo     |
 | http://bit.ly/2LtBbNu                | DD Tutoriais                               |
