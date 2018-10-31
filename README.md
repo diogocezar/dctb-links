@@ -494,6 +494,7 @@ Dicas para UX e UI.
 | Link                                 | Descrição                                  |
 |--------------------------------------|--------------------------------------------|
 | http://bit.ly/2NUi4sQ                | Mito híbrido UX e UI Designer              |
+| http://bit.ly/2JzOpEt                | Raio X de UX                               |
 
 ## Transferência de Arquivo
 
