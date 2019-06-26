@@ -203,6 +203,9 @@ Alguns links relacionados a tecnologia JavaScript.
 | http://www.dropzonejs.com            | Drag and Drop Upload                       |
 | http://flipclockjs.com               | Relógio Flip                               |
 | https://formspree.io/                | Envio de Email de Páginas Estáticas        |
+| https://bit.ly/1j6hetV               | Uma moderna introdução ao JavaScript       |
+| https://learnjavascript.online/      | Curso de JavaScript                        |
+
 
 ### JQuery & Plugins & Frameworks
 
@@ -386,6 +389,8 @@ Um apanhado de links sobre diversas tecnologias.
 | http://bit.ly/2K5MPJ7                | Npm Init defaults                          | NodeJS        |
 | http://bit.ly/2GoEO0t                | MSG de Inicializaço do Terminal            | Terminal      |
 | https://carbon.now.sh/               | Para compartilhar códigos elegantes        | Outros        |
+| https://flaviocopes.com/page/ebooks/ | Vários ebooks sobre JavaScript             | Ebooks        |
+| https://bit.ly/2m4ljEv               | Developer-roadmap 2019                     | Guia carreira |
 
 ## Podcasts
 
@@ -397,6 +402,11 @@ Alguns podcasts que recomendamos.
 | https://hipsters.tech                | Podcast em PT-BR                           |
 | http://devnaestrada.com.br           | Podcast em PT-BR                           |
 | http://bit.ly/2OroK2M                | Jovem Nerd Tech                            |
+| https://www.podtag.com.br/           | Podcast de Tecnologia                      |
+| https://www.likeaboss.com.br/        | Podcast de Empreendedorismo                |
+| https://bit.ly/2XaRncx               | Diversos Podcasts em inglês                |
+| https://bit.ly/325Kb06               | Podcast Carreiras sem Fronteiras           |
+
 
 ## Usabilidade e Pesquisa
 
